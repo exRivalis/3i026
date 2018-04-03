@@ -1,0 +1,1059 @@
+ville;abri;ID DSP;ID Autolib;adresse;Code Postal;prises Autolib;prises Tiers T3;type;XY
+Créteil;;94028-11;Créteil/Gabriel Fauré/18;18 Rue Gabriel Fauré;94000;6.0;;Voirie;48.778418, 2.462495
+Créteil;;94028-16;Créteil/Denfert Rochereau/12;12 rue Denfert Rochereau;94000;6.0;;Voirie;48.791289, 2.450388
+Joinville-le-Pont;1.0;94042-03;Joinville-le-Pont/8 mai 1945/1;1 place du 8 mai 1945;94340;6.0;;Voirie;48.816095, 2.466227
+Limeil-Brévannes;;94044-05;Limeil-Brévannes/Saint John Perse/20;20 Rue Saint John Perse;94450;7.0;;Voirie;48.751046, 2.473095
+Nogent-sur-Marne;;94052-03;Nogent-sur-Marne/Port/27;27 rue du Port;94130;6.0;1;Voirie;48.833134, 2.489646
+Rungis;;94065-02;Rungis/Robert Schuman/43;43 avenue Robert Schuman;94150;5.0;1;Voirie;48.746163, 2.354847
+Saint-Mandé;1.0;94067-01;Saint-Mandé/Galliéni/178;178 Avenue Galliéni;94160;6.0;;Voirie;48.846866, 2.417283
+Saint-Mandé;;94067-09;Saint-Mandé/Daumesnil/11;11 avenue Daumesnil;94160;7.0;;Voirie;48.833829, 2.41388
+Villejuif;1.0;94076-03;Villejuif/Paul Vaillant Couturier/9;9 boulevard Paul Vaillant Couturier;94800;6.0;;Voirie;48.795373, 2.367326
+Villejuif;;94076-08;Villejuif/Épi d'Or/2;2 avenue de l'Épi d’Or;94800;6.0;;Voirie;48.782401, 2.352617
+Villejuif;;94076-09;Villejuif/Maxime Gorki/144;144 boulevard Maxime Gorki;94800;6.0;;Voirie;48.789192, 2.368354
+Vincennes;;94080-03;Vincennes/Fontenay/44;44 rue de Fontenay;94300;6.0;1;Voirie;48.84789, 2.443258
+Paris;;75117-40;Paris/Jouffroy d'Abbans/108;108 Rue Jouffroy d'Abbans;75017;4.0;2;Voirie;48.882369, 2.301916
+Paris;;75117-42;Paris/Ternes/6;6 avenue des Ternes;75017;4.0;1;Voirie;48.878287, 2.296558
+Paris;;75117-43;Paris/Saint Ouen/67;67 avenue de Saint Ouen;75017;4.0;1;Voirie;48.891987, 2.326914
+Paris;;75118-03;Paris/Vauvenargues/35;35 rue Vauvenargues;75018;4.0;2;Voirie;48.894447, 2.332185
+Paris;;75118-13;Paris/Caulaincourt/17;17 rue Caulaincourt;75018;4.0;;Voirie;48.887326, 2.333061
+Paris;;75118-15;Paris/Doudeauville/29;29 rue Doudeauville;75018;4.0;2;Voirie;48.888593, 2.355297
+Paris;;75118-17;Paris/Duhesme/113;113 Rue Duhesme;75018;4.0;2;Voirie;48.89555, 2.345645
+Paris;;75118-33;Paris/Chapelle/75;75 rue de la Chapelle;75018;4.0;;Voirie;48.896931, 2.35874
+Paris;;75119-02;Paris/Botzaris/50;50 rue Botzaris;75019;4.0;2;Voirie;48.879076, 2.38364
+Paris;;75119-12;Paris/Lorraine/22;22 rue de Lorraine;75019;4.0;;Voirie;48.885685, 2.382957
+Paris;;75119-13;Paris/Adolphe Mille/8;8 rue Adolphe Mille;75019;4.0;1;Voirie;48.888621, 2.388834
+Paris;;75119-16;Paris/Goubet/8;8 rue Goubet;75019;4.0;2;Voirie;48.885203, 2.390049
+Paris;;75119-20;Paris/Meurthe/1;1 Rue de la Meurthe;75019;4.0;2;Voirie;48.889515, 2.383132
+Paris;1.0;75119-34;Paris/Flandre/169;169 avenue de Flandre;75019;4.0;1;Voirie;48.894264, 2.381192
+Paris;;75119-36;Paris/Secrétan/4;4 Avenue Secrétan;75019;4.0;2;Voirie;48.882169, 2.370818
+Nanterre;;92050-19;Nanterre/Pablo Neruda/6;6 Rue Pablo Neruda;92000;6.0;;Voirie;48.895522, 2.2162
+Nanterre;;92050-23;Nanterre/Rigault/1;1 Rue Rigault;92000;6.0;;Voirie;48.893288, 2.197917
+Nanterre;;92050-24;Nanterre/Aimé Césaire/5;5 Boulevard Aimé Césaire;92000;7.0;;Voirie;48.89392, 2.228438
+Nanterre;;92050-26;Nanterre/Lens/13;13 Rue de Lens;92000;6.0;;Voirie;48.900048, 2.22403
+Nanterre;;92050-30;Nanterre/Salvador Allende/123;123 Rue Salvador Allende;92000;7.0;;Voirie;48.894156, 2.225452
+Nanterre;;92050-33;Nanterre/Émile Zola/61;61 Boulevard Émile Zola;92000;6.0;;Voirie;48.895769, 2.214099
+Plessis-Robinson;;92060-02;Plessis-Robinson/Chaussée de l'Etang/109;109 chaussée de l'Etang;92350;5.0;;Voirie;48.783616, 2.271361
+Puteaux;1.0;92062-01;Puteaux/Dion Bouton/30;30 Quai de Dion Bouton;92800;4.0;;Voirie;48.8806, 2.244813
+Puteaux;;92062-06;Puteaux/Francis de Pressensé/12;12 Rue Francis de Pressensé;92800;6.0;;Voirie;48.876191, 2.236073
+Rueil-Malmaison;;92063-12;Rueil-Malmaison/Paul Doumer/3;3 avenue Paul Doumer;92500;6.0;;Voirie;48.881119, 2.185244
+Rueil-Malmaison;;92063-21;Rueil-Malmaison/Lieutenant Colonel Driant/11;11 Rue du Lieutenant Colonel Driant;92500;5.0;;Voirie;48.877848, 2.200628
+Saint-Cloud;;92064-01;Saint-Cloud/Pasteur/18;18 rue Pasteur;92210;6.0;1;Voirie;48.842072, 2.203772
+Sceaux;;92071-03;Sceaux/Franklin Roosevelt/60;60 Avenue du Président Franklin Roosevelt;92330;6.0;;Voirie;48.777129, 2.296936
+Suresnes;1.0;92073-03;Suresnes/Verdun/15;15 Rue de Verdun;92150;5.0;;Voirie;48.871127, 2.227152
+Suresnes;;92073-13;Suresnes/Fontaine du Tertre/21;21 avenue de la Fontaine du Tertre;92150;6.0;;Voirie;48.869965, 2.21797
+Suresnes;;92073-14;Suresnes/Marcel Monge/2;2 Rue Marcel Monge;92150;5.0;1;Voirie;48.861409, 2.223918
+Vanves;;92075-02;Vanves/Pruvot/7;7 Rue Pruvot;92170;7.0;;Voirie;48.822262, 2.284054
+Vaucresson;;92076-03;Vaucresson/Victor Pauchet/31;31 rue du Professeur Victor Pauchet;92420;2.0;;Voirie;48.847883, 2.175831
+Villeneuve-la-Garenne;;92078-01;Villeneuve-la-Garenne/Saint-Exupéry/1;1 allée Saint-Exupéry;92390;6.0;;Voirie;48.935635, 2.326139
+Bagnolet;;93006-03;Bagnolet/Sadi Carnot/213;213 Rue Sadi Carnot;93170;6.0;;Voirie;48.877721, 2.426731
+Montreuil;;93048-01;Montreuil/De Gaulle/15;15 place du Général de Gaulle;93100;6.0;1;Voirie;48.868264, 2.433243
+Montreuil;;93048-04;Montreuil/Roches/22;22 rue des Roches;93100;6.0;;Voirie;48.856208, 2.425809
+Romainville;;93063-01;Romainville/Marcel Ethis/15;15 Rue Marcel Ethis;93230;6.0;;Voirie;
+Rosny-sous-Bois;;93064-02;Rosny-sous-Bois/Jean Jaurès/5;5 avenue Jean Jaurès;93110;6.0;;Voirie;48.870611, 2.486526
+Rosny-sous-Bois;;93064-03;Rosny-sous-Bois/Rome/8;8 rue de Rome;93110;6.0;;Voirie;48.876283, 2.474906
+Saint-Ouen;;93070-03;Saint-Ouen/Louis Blanc/35;35 Rue Louis Blanc;93400;6.0;;Voirie;48.907155, 2.331525
+Alfortville;1.0;94002-02;Alfortville/Malleret/16;16 avenue du Général Malleret;94140;6.0;;Voirie;48.802462, 2.425605
+Alfortville;;94002-07;Alfortville/Port à l'Anglais/39;39 rue du Port à l'Anglais;94140;6.0;;Voirie;48.805457, 2.41359
+Alfortville;;94002-08;Alfortville/Europe/22;22 place de l'Europe;94140;6.0;;Voirie;48.788999, 2.428914
+Arcueil;;94003-06;Arcueil/Paul Bert/21;21 rue Paul Bert;94110;6.0;;Voirie;48.804256, 2.328886
+Cachan;;94016-02;Cachan/François Delage/22;22 rue François Delage;94230;6.0;;Voirie;48.793209, 2.337394
+Charenton-le-Pont;1.0;94018-04;Charenton-le-Pont/Jean Jaurès/4;4 Avenue Jean Jaurès;94220;4.0;;Voirie;48.821806, 2.414314
+Charenton-le-Pont;;94018-08;Charenton-le-Pont/Nouveau Bercy/2;2 Rue du Nouveau Bercy;94220;6.0;;Voirie;48.823435, 2.396733
+Créteil;;94028-02;Créteil/Pierre Brossolette/77;77 avenue Pierre Brossolette;94000;6.0;;Voirie;48.790876, 2.463169
+Paris;;75120-01;Paris/Pyrénées/356;356 rue des Pyrénées;75020;4.0;2;Voirie;48.873981, 2.386397
+Paris;;75120-05;Paris/Gambetta/161;161 Avenue Gambetta;75020;4.0;;Voirie;48.870538, 2.403301
+Paris;;75120-06;Paris/Pyrénées/236;236 Rue des Pyrénées;75020;4.0;2;Voirie;48.867501, 2.396611
+Paris;;75120-10;Paris/Guébriant/6;6 rue Guébriant;75020;4.0;1;Voirie;48.873146, 2.409572
+Paris;;75120-11;Paris/Gambetta/1;1 Avenue Gambetta;75020;4.0;2;Voirie;48.863305, 2.388736
+Paris;;75120-16;Paris/Maurice Berteaux/2;2 rue Maurice Berteaux;75020;4.0;1;Voirie;48.867867, 2.409988
+Paris;1.0;75120-17;Paris/Pyrénées/137;137 Rue des Pyrénées;75020;4.0;1;Voirie;48.858152, 2.403259
+Paris;;75120-43;Paris/Sorbier/14;14 rue Sorbier;75020;4.0;2;Voirie;48.866898, 2.391441
+Le Chesnay;;78158-02;Le Chesnay/Dutartre/58;58 avenue Dutartre;78150;6.0;;Voirie;48.825645, 2.118372
+Le Chesnay;;78158-05;Le Chesnay/Leclerc/2;2 avenue du Général Leclerc;78150;5.0;;Voirie;48.816015, 2.129488
+Vélizy Villacoublay;;78640-01;Vélizy Villacoublay/Robert Wagner/17;17 avenue Robert Wagner;78140;6.0;;Voirie;48.784249, 2.178894
+Vélizy Villacoublay;;78640-03;Vélizy Villacoublay/Paul Dautier/2;2 rue Paul Dautier;78140;7.0;;Voirie;48.780577, 2.208813
+Verrières-le-Buisson;;91645-02;Verrières-le-Buisson/Maréchal Foch/56;56 boulevard du Maréchal Foch;91370;6.0;1;Voirie;48.7458, 2.269204
+Yerres;;91691-02;Yerres/Charles-de-Gaulle/1;1 rue Charles-de-Gaulle;91330;6.0;1;Voirie;48.714732, 2.4932
+Antony;;92002-02;Antony/Velpeau/14;14 rue Velpeau;92160;6.0;;Voirie;48.754954, 2.301415
+Asnières-sur-Seine;;92004-05;Asnières-sur-Seine/Jean-Jacques Rousseau/2;2 Rue Jean-Jacques Rousseau;92600;6.0;;Voirie;48.912594, 2.29479
+Asnières-sur-Seine;;92004-12;Asnières-sur-Seine/Robert Lavergne/11;11 rue Robert Lavergne;92600;6.0;;Voirie;48.92846, 2.272581
+Asnières-sur-Seine;;92004-13;Asnières-sur-Seine/Denfert Rochereau/8;8 Rue Denfert Rochereau;92600;6.0;;Voirie;48.906949, 2.269449
+Asnières-sur-Seine;;92004-14;Asnières-sur-Seine/Benoît Malon/8;8 Rue Benoît Malon;92600;6.0;;Voirie;48.909528, 2.275584
+Bagneux;;92007-02;Bagneux/René Cros/65;65 Rue René Cros;92220;6.0;;Voirie;
+Bagneux;;92007-07;Bagneux/Louis Pasteur/17;17 Avenue Louis Pasteur;92220;6.0;;Voirie;48.799847, 2.31834
+Bagneux;;92007-13;Bagneux/Mathurins/2;2 rue des Mathurins;92220;6.0;;Voirie;48.793942, 2.306385
+Bois-Colombes;;92009-02;Bois-Colombes/Raoul Nordling/16;16 rue Raoul Nordling;92270;6.0;;Voirie;48.906192, 2.264092
+Boulogne-Billancourt;;92012-07;Boulogne-Billancourt/Abel Gance/6;6 place Abel Gance;92100;6.0;;Voirie;48.833833, 2.258159
+Boulogne-Billancourt;;92012-08;Boulogne-Billancourt/André Morizet/121;121 avenue André Morizet;92100;6.0;;Voirie;48.837077, 2.236243
+Boulogne-Billancourt;;92012-16;Boulogne-Billancourt/Jean Jaurès/245;245 boulevard Jean Jaurès;92100;6.0;;Voirie;48.82875, 2.246386
+Châtillon;;92020-01;Châtillon/Stalingrad/5;5 boulevard de Stalingrad;92320;5.0;;Voirie;48.811022, 2.298848
+Châtillon;;92020-05;Châtillon/Liberté/100;100 boulevard de la LIberté;92320;7.0;;Voirie;48.799068, 2.29405
+Clamart;;92023-03;Clamart/Jean Jaurès/255;255 Avenue Jean Jaurès;92140;6.0;;Voirie;48.813594, 2.271954
+Clamart;;92023-04;Clamart/Verdun/1;1 rue de Verdun;92140;6.0;;Voirie;48.813161, 2.258799
+Clamart;;92023-05;Clamart/Paul Vaillant Couturier/68;68 rue Paul Vaillant Couturier;92140;6.0;;Voirie;48.804939, 2.259906
+Clamart;;92023-08;Clamart/De Gaulle/118;118 avenue du Général De Gaulle;92140;6.0;;Voirie;48.790601, 2.263903
+Colombes;;92025-03;Colombes/Jules Michelet/77;77 rue Jules Michelet;92700;6.0;;Voirie;48.932518, 2.271278
+Colombes;;92025-05;Colombes/Henri Barbusse/16;16 Avenue Henri Barbusse;92700;6.0;;Voirie;48.921561, 2.25252
+Colombes;;92025-06;Colombes/Gounod/1;1 Rue Gounod;92700;6.0;;Voirie;48.923616, 2.248436
+Colombes;;92025-09;Colombes/Renouillers/183;183 Rue des Renouillers;92700;6.0;;Voirie;48.923595, 2.236862
+Colombes;;92025-13;Colombes/Seine/52;52 rue de Seine;92700;5.0;;Voirie;48.916288, 2.251659
+Colombes;;92025-15;Colombes/Pierre Brossolette/42;42 rue Pierre Brossolette;92700;6.0;;Voirie;48.909585, 2.238659
+Fontenay-aux-Roses;;92032-04;Fontenay-aux-Roses/Division Leclerc/31;31 avenue de la Division Leclerc;92260;7.0;;Voirie;48.794803, 2.274205
+Paris;;75107-PD;Paris/Joffre Ecole Militaire/Parking;2 place Joffre;75007;6.0;;Parking;48.854392, 2.304765
+Paris;;75109-PF;Paris/Anvers/Parking;41 boulevard de Rochechouart;75009;6.0;;Parking;48.882838, 2.344819
+Paris;;75116-PA;Paris/Etoile Foch/Parking;6 avenue Foch;75016;6.0;;Parking;48.873747, 2.292056
+Paris;;75116-PG;Paris/Versailles Reynaud/Parking;178 avenue de Versailles;75016;6.0;;Parking;48.839707, 2.262504
+Saint-Maurice;;94069-PA;Saint-Maurice/Montgolfier/Parking;Place Montgolfier - Parking Montgolfier;94410;6.0;;Parking;
+Paris;;75101-06;Paris/Amiral Coligny/2;2 Rue de l'Amiral Coligny;75001;4.0;2;Voirie;48.859236, 2.340198
+Paris;;75102-06;Paris/Notre-Dame des Victoires/21;21 bis rue Notre-Dame des Victoires;75002;4.0;;Voirie;48.869788, 2.342384
+Paris;;75102-12;Paris/Uzès/1;1 rue d'Uzès;75002;4.0;1;Voirie;48.870323, 2.345416
+Paris;;75103-01;Paris/Turenne/46;46 rue de Turenne;75003;4.0;1;Voirie;48.857874, 2.364594
+Paris;;75103-03;Paris/République/17;17 Place de la République;75003;4.0;;Voirie;48.867542, 2.362526
+Paris;1.0;75103-07;Paris/Perle/18;18 Rue de la Perle;75003;4.0;;Voirie;48.859795, 2.361318
+Paris;;75103-08;Paris/Filles du Calvaire/19;19 Rue des Filles du Calvaire;75003;4.0;2;Voirie;48.862837, 2.366031
+Paris;;75104-07;Paris/Pont Louis-Philippe/24;24 rue du Pont Louis-Philippe;75004;4.0;2;Voirie;48.855694, 2.356356
+Paris;;75105-02;Paris/Dante/1;1 Rue Dante;75005;4.0;;Voirie;48.851348, 2.347145
+Paris;;75105-04;Paris/Saint Jacques/133;133 rue Saint Jacques;75005;4.0;2;Voirie;48.844591, 2.342445
+Paris;1.0;75105-06;Paris/Gay-Lussac/66;66 rue Gay-Lussac;75005;4.0;1;Voirie;48.842059, 2.343016
+Paris;;75105-22;Paris/Henri Barbusse/25;25 rue Henri Barbusse;75005;4.0;2;Voirie;48.841678, 2.339246
+Paris;;75106-01;Paris/Jacques Callot/5;5 rue Jacques Callot;75006;4.0;;Voirie;48.855212, 2.337248
+Paris;;75107-05;Paris/Bosquet/81;81 Avenue Bosquet;75007;4.0;2;Voirie;48.855249, 2.305477
+Paris;;75107-08;Paris/Duquesne/26;26 Avenue Duquesne;75007;4.0;2;Voirie;48.851153, 2.310591
+Paris;;75107-16;Paris/Tour-Maubourg/76;76 Boulevard de la Tour-Maubourg;75007;4.0;1;Voirie;48.855977, 2.309579
+Paris;;75107-20;Paris/Jean Nicot/10;10 rue Jean Nicot;75007;4.0;;Voirie;48.860773, 2.307175
+Paris;;75108-03;Paris/Artois/11;11 rue d'Artois;75008;4.0;1;Voirie;48.872847, 2.307769
+Paris;;75108-05;Paris/La Boétie/37;37 rue la Boétie;75008;4.0;1;Voirie;48.87368, 2.314639
+Paris;;75108-07;Paris/Saint-Honoré/91;91 Rue du Faubourg Saint-Honoré;75008;4.0;1;Voirie;48.872035, 2.313083
+Paris;;75108-15;Paris/Saint-Honoré/422;422 Rue Saint-Honoré;75008;4.0;;Voirie;48.868325, 2.323673
+Paris;;75108-20;Paris/Malesherbes/113;113 boulevard Malesherbes;75008;4.0;1;Voirie;48.880142, 2.313328
+Paris;;75108-27;Paris/Liège/24;24 rue de Liège;75008;4.0;2;Voirie;48.879594, 2.32626
+Paris;;75108-33;Paris/François 1er/38;38 rue François 1er;75008;4.0;2;Voirie;48.868232, 2.304591
+Paris;;75110-14;Paris/Saint-Vincent-de-Paul/26;26 rue Saint-Vincent-de-Paul;75010;4.0;2;Voirie;48.881848, 2.352784
+Paris;;75110-28;Paris/Grange aux Belles/47;47 rue de la Grange aux Belles;75010;4.0;1;Voirie;48.875988, 2.368073
+Paris;;75111-09;Paris/Voltaire/236;236 Boulevard Voltaire;75011;4.0;1;Voirie;48.851693, 2.390039
+Paris;;75111-24;Paris/Taillebourg/2;2 Avenue de Taillebourg;75011;4.0;2;Voirie;48.849161, 2.397172
+Paris;;75111-29;Paris/Richard Lenoir/63;63 Boulevard Richard Lenoir;75011;4.0;2;Voirie;48.860163, 2.371941
+Paris;;75111-32;Paris/Commandant Lamy/2;2 rue du Commandant Lamy;75011;4.0;;Voirie;48.855697, 2.374365
+Paris;;75112-01;Paris/Saint-Antoine/16;16 Rue du Faubourg Saint-Antoine;75012;4.0;2;Voirie;48.852728, 2.371006
+Paris;1.0;75112-08;Paris/Diderot/24;24 boulevard Diderot;75012;4.0;1;Voirie;48.845953, 2.374862
+Paris;1.0;75112-12;Paris/Villiot/20;20 Rue Villiot;75012;4.0;1;Voirie;48.841472, 2.375017
+Paris;;75112-15;Paris/Saint-Antoine/238;238 Rue du Faubourg Saint-Antoine;75012;4.0;1;Voirie;48.849279, 2.389115
+Paris;;75112-20;Paris/Daumesnil/199;199 avenue Daumesnil;75012;4.0;;Voirie;48.839249, 2.397095
+Paris;;75112-21;Paris/Soult/137;137 boulevard Soult;75012;4.0;;Voirie;48.846169, 2.410866
+Paris;;75113-10;Paris/Vulpian/24;24 Rue Vulpian;75013;4.0;2;Voirie;48.831177, 2.346105
+Paris;;75113-21;Paris/Ivry/58;58 Avenue D'Ivry;75013;4.0;1;Voirie;48.824335, 2.363639
+Paris;;75113-28;Paris/Vincent Auriol/81;81 Boulevard Vincent Auriol;75013;4.0;2;Voirie;48.834441, 2.367247
+Paris;;75114-28;Paris/Didot/80;80 rue Didot;75014;4.0;;Voirie;48.82872, 2.316252
+Paris;;75114-30;Paris/Saint-Jacques/59;59 boulevard Saint-Jacques;75014;4.0;2;Voirie;48.832825, 2.336116
+Paris;;75115-03;Paris/Arrivée/16;16 rue de l'Arrivée;75015;4.0;2;Voirie;48.843217, 2.321596
+Paris;;75115-15;Paris/Colonel Pierre Avia/1;1 Rue du Colonel Pierre Avia;75015;4.0;2;Voirie;48.832718, 2.27861
+Paris;;75115-18;Paris/Houdart de Lamotte/2;2 Rue Houdart de Lamotte;75015;4.0;1;Voirie;48.840461, 2.287915
+Paris;;75115-19;Paris/Lecourbe/178;178 Rue Lecourbe;75015;4.0;2;Voirie;48.841258, 2.297723
+Paris;;75115-21;Paris/Leblanc/19;19 Rue Leblanc;75015;4.0;1;Voirie;48.839848, 2.273492
+Paris;;75115-25;Paris/Vasco de Gama/74;74 rue Vasco de Gama;75015;4.0;;Voirie;48.835378, 2.285178
+Paris;;75115-28;Paris/Dantzig/37;37 rue de Dantzig;75015;4.0;2;Voirie;48.833546, 2.298806
+Paris;;75115-31;Paris/Commerce/5;5 Place du Commerce;75015;4.0;2;Voirie;48.845513, 2.292099
+Paris;;75115-39;Paris/Émile Duclaux/19;19 Rue Émile Duclaux;75015;4.0;;Voirie;48.842051, 2.309136
+Paris;;75115-41;Paris/Finlay/43;43 rue du Docteur Finlay;75015;4.0;2;Voirie;48.851323, 2.291053
+Paris;;75115-45;Paris/Suffren/44;44 Avenue de Suffren;75015;4.0;;Voirie;48.853892, 2.296363
+Paris;;75115-55;Paris/Vaugirard/230;230 Rue de Vaugirard;75015;4.0;1;Voirie;48.84057, 2.304456
+Paris;;75116-04;Paris/Victor Hugo/18;18 Avenue Victor Hugo;75016;4.0;2;Voirie;48.872429, 2.291531
+Paris;;75116-05;Paris/États-Unis/16;16 place des États-Unis;75016;4.0;1;Voirie;48.86843, 2.292723
+Paris;;75116-15;Paris/Pétrarque/2;2 rue Pétrarque;75016;4.0;1;Voirie;48.861883, 2.2833
+Paris;;75116-25;Paris/Jean de la Fontaine/42;42 rue Jean de la Fontaine;75016;4.0;;Voirie;48.850941, 2.271751
+Paris;;75116-33;Paris/Versailles/112;112 Avenue de Versailles;75016;4.0;2;Voirie;48.843823, 2.269842
+Paris;;75116-37;Paris/Mahatma Gandhi/6;6 avenue du Mahatma Gandhi;75016;5.0;;Voirie;48.877026, 2.267791
+Paris;;75116-45;Paris/Ranelagh/10;10 Rue du Ranelagh;75016;4.0;2;Voirie;48.853289, 2.279371
+Paris;;75117-01;Paris/Pereire/271;271 Boulevard Pereire;75017;4.0;2;Voirie;48.878065, 2.285113
+Paris;;75117-02;Paris/Porte Pouchet/1;1 Avenue de la Porte Pouchet;75017;4.0;2;Voirie;48.897932, 2.32346
+Paris;;75117-05;Paris/Courcelles/188;188 rue de Courcelles;75017;4.0;2;Voirie;48.885552, 2.29687
+Paris;;75117-07;Paris/Pouchet/4;4 rue Pouchet;75017;4.0;1;Voirie;48.891752, 2.318783
+Paris;;75117-15;Paris/Koënig/12;12 place du Général Koënig;75017;4.0;1;Voirie;48.88139, 2.284383
+Paris;;75117-21;Paris/Wagram/77;77 Avenue de Wagram;75017;4.0;1;Voirie;48.879927, 2.299267
+Paris;;75117-22;Paris/Chazelles/1;1 rue Chazelles;75017;4.0;;Voirie;48.879718, 2.303479
+Paris;;75117-26;Paris/Brunel/42;42 rue Brunel;75017;4.0;2;Voirie;48.878835, 2.287802
+Paris;;75118-09;Paris/Caulaincourt/71;71 rue Caulaincourt;75018;4.0;2;Voirie;48.889637, 2.336576
+Paris;;75118-22;Paris/Sofia/16;16 Rue Sofia;75018;4.0;2;Voirie;48.88496, 2.347775
+Paris;;75118-27;Paris/Jean-François Lépine/1;1 rue Jean-François Lépine;75018;4.0;2;Voirie;48.886033, 2.359144
+Paris;;75118-30;Paris/Ordener/1;1 Rue Ordener;75018;4.0;1;Voirie;48.890158, 2.359462
+Paris;;75118-31;Paris/Évangile/45;45 rue de l'Évangile;75018;4.0;2;Voirie;48.894628, 2.366861
+Paris;;75118-32;Paris/Boucry/35;35 rue de Boucry;75018;4.0;1;Voirie;48.895094, 2.359666
+Paris;;75118-35;Paris/Custine/17;17 Rue Custine;75018;4.0;2;Voirie;48.888111, 2.348172
+Paris;;75119-03;Paris/Mathis/35;35 rue Mathis;75019;4.0;;Voirie;48.891164, 2.372698
+Paris;;75119-09;Paris/Aubervilliers/38;38 rue d'Aubervilliers;75019;4.0;1;Voirie;48.886155, 2.366503
+Paris;;75119-14;Paris/Manin/159;159 Rue Manin;75019;4.0;2;Voirie;48.886033, 2.393553
+Paris;;75119-15;Paris/Seine/77;77 Quai de Seine;75019;4.0;;Voirie;48.888462, 2.378007
+Paris;1.0;75119-18;Paris/Mathurin Moreau/6;6 avenue Mathurin Moreau;75019;4.0;1;Voirie;48.878031, 2.371191
+Paris;;75119-33;Paris/René Fonck/2;2 Avenue René Fonck;75019;4.0;1;Voirie;48.87825, 2.409392
+Paris;;75119-35;Paris/Secrétan/44;44 avenue Secrétan;75019;4.0;1;Voirie;48.880585, 2.37446
+Paris;;75120-07;Paris/Ménilmontant/30;30 Boulevard de Ménilmontant;75020;4.0;2;Voirie;48.862707, 2.38786
+Paris;;75120-14;Paris/Charles et Robert/6;6 rue Charles et Robert;75020;4.0;2;Voirie;48.851601, 2.411954
+Paris;;75120-38;Paris/Frédéric Loliée/5;5 rue Frédéric Loliée;75020;4.0;2;Voirie;48.849545, 2.406083
+Le Chesnay;;78158-03;Le Chesnay/Pottier/7;7 rue Pottier;78150;7.0;;Voirie;48.825355, 2.125862
+Le Chesnay;;78158-04;Le Chesnay/Charles de Gaulle/103;103 avenue Charles de Gaulle;78150;6.0;;Voirie;48.82923, 2.126929
+Vélizy-Villacoublay;;78640-02;Vélizy-Villacoublay/Dewoittine/1;1 rue Dewoittine;78140;6.0;;Voirie;48.782969, 2.215467
+Vélizy-Villacoublay;;78640-04;Vélizy-Villacoublay/Capitaine Tarron/8;8 avenue du Capitaine Tarron;78140;4.0;;Voirie;48.782525, 2.190057
+Vélizy-Villacoublay;;78640-05;Vélizy-Villacoublay/Marcel Dassault/2;2 rue Marcel Dassault;78140;7.0;;Voirie;48.784492, 2.214927
+Yerres;;91691-03;Yerres/Pierre Brossolette/92;92 rue Pierre Brossolette;91330;6.0;1;Voirie;48.700706, 2.482884
+Antony;;92002-03;Antony/De Gaulle/11;11 avenue du Général De Gaulle;92160;5.0;1;Voirie;48.761671, 2.296968
+Asnières-sur-Seine;1.0;92004-11;Asnières-sur-Seine/Bas/6;6 Rue des Bas;92600;6.0;;Voirie;48.911597, 2.293112
+Asnières-sur-Seine;;92004-22;Asnières-sur-Seine/Ménil/273;273 rue du Ménil;92600;6.0;;Voirie;48.921871, 2.281982
+Bagneux;;92007-01;Bagneux/Léon Blum/13;13 Rue Léon Blum;92220;6.0;;Voirie;48.794191, 2.301621
+Clichy-la-garenne;;92024-02;Clichy-la-garenne/Claude Debussy/7;7 avenue Claude Debussy;92210;6.0;;Voirie;
+Colombes;;92025-10;Colombes/Estienne d'Orves/348;348 rue d'Estienne d'Orves;92700;6.0;;Voirie;48.910865, 2.235629
+Colombes;;92025-12;Colombes/Félix Faure/7;7 rue Félix Faure;92700;6.0;;Voirie;48.914921, 2.25335
+Courbevoie;;92026-10;Courbevoie/Paix/2;2 Boulevard de la Paix;92400;6.0;;Voirie;48.900505, 2.261296
+Fontenay-aux-Roses;;92032-05;Fontenay-aux-Roses/Marx Dormoy/71;71 rue Marx Dormoy;92260;6.0;;Voirie;48.792339, 2.29482
+Garches;;92033-01;Garches/De Gaulle/168;168 boulevard du Général de Gaulle;92380;6.0;;Voirie;48.840137, 2.191871
+Malakoff;;92046-09;Malakoff/Malleret Joinville/2;2 Rue du Général Malleret Joinville;92240;6.0;;Voirie;48.811376, 2.281557
+Meudon;;92048-05;Meudon/Terre Neuve/3;3 bis rue Terre Neuve;92190;6.0;;Voirie;48.807801, 2.234669
+Nanterre;;92050-02;Nanterre/Pésaro/22;22 Boulevard de Pésaro;92000;6.0;;Voirie;48.894511, 2.224918
+Nanterre;;92050-12;Nanterre/Gascogne/1;1 allée de Gascogne;92000;7.0;;Voirie;48.90303, 2.203871
+Nanterre;;92050-25;Nanterre/Suresnes/19;19 rue de Suresnes;92000;6.0;;Voirie;48.885389, 2.211609
+Nanterre;;92050-31;Nanterre/République/326;326 Avenue de la République;92000;6.0;;Voirie;48.908966, 2.216178
+Nanterre;;92050-32;Nanterre/Union/13;13 Rue de l'Union;92000;6.0;;Voirie;48.89933, 2.192951
+Neuilly sur Seine;;92051-02;Neuilly sur Seine/Maurice Barres/64;64 Boulevard Maurice Barres;92200;6.0;;Voirie;48.879051, 2.270191
+Puteaux;;92062-03;Puteaux/Fernand Pelloutier/2;2 Rue Fernand Pelloutier;92800;6.0;;Voirie;48.883291, 2.233306
+Puteaux;;92062-05;Puteaux/De Gaulle/70;70 avenue du Général de Gaulle;92800;6.0;;Voirie;48.887576, 2.232501
+Paris;;75103-PA;Paris/Saint-Martin/Parking;252 bis rue Saint-Martin;75003;6.0;;Parking;48.864711, 2.353238
+Paris;;75106-PA;Paris/Rennes Montparnasse/Parking;155 bis rue de Rennes;75006;6.0;;Parking;48.845038, 2.325224
+Paris;;75106-PE;Paris/Saint-Germain des Prés/Parking;171 boulevard Saint-Germain;75006;6.0;;Parking;48.854155, 2.330922
+Paris;;75114-PD;Paris/Montparnasse Raspail/Parking;120 boulevard du Montparnasse;75014;6.0;;Parking;48.84143, 2.330679
+Paris;;75114-PF;Paris/Saint-Jacques 1/Parking;61 boulevard Saint-Jacques;75014;6.0;;Parking;48.832977, 2.335575
+Paris;;75115-PC;Paris/Pasteur 2/Parking;69 boulevard Pasteur;75015;6.0;;Parking;48.840851, 2.31496
+Paris;;75116-PE;Paris/Porte d'Auteuil/Parking;1 avenue du Général Sarrail;75016;6.0;;Parking;48.84732, 2.256903
+Paris;;75117-PG;Paris/Ternes/Parking;38 avenue des Ternes;75017;6.0;;Parking;48.879025, 2.293333
+Levallois-Perret;;92044-PA;Levallois-Perret/Hôtel de Ville/Parking;1 Place de la République;92300;6.0;;Parking;48.893164, 2.289003
+Levallois-Perret;;92044-PJ;Levallois-Perret/Louise Michel/Parking;8 rue Louise Michel;92300;6.0;;Parking;48.887205, 2.284554
+Paris;;75101-04;Paris/Saint Roch/3;3 Rue Saint Roch;75001;4.0;;Voirie;48.864351, 2.33148
+Paris;;75101-14;Paris/Bertin Poirée/14;14 rue Bertin Poirée;75001;4.0;1;Voirie;48.8588, 2.344932
+Paris;;75102-01;Paris/Alexandrie/7;7 rue d'Alexandrie;75002;4.0;;Voirie;48.867983, 2.350927
+Paris;;75103-05;Paris/Perrée/18;18 Rue Perrée;75003;4.0;1;Voirie;48.865068, 2.360688
+Paris;;75103-06;Paris/Volta/39;39 Rue Volta;75003;4.0;;Voirie;48.866477, 2.357847
+Paris;;75103-14;Paris/Saint-Martin/204;204 rue Saint-Martin;75003;4.0;;Voirie;48.863349, 2.35266
+Paris;;75104-03;Paris/Saint Gervais/1;1 place Saint Gervais;75004;4.0;2;Voirie;48.855529, 2.354117
+Paris;;75104-09;Paris/Henri IV/46;46 Quai Henri IV;75004;4.0;1;Voirie;48.850489, 2.361581
+Paris;;75105-05;Paris/Paul Painlevé/7;7 rue Paul Painlevé;75005;4.0;1;Voirie;48.849876, 2.344407
+Paris;;75105-07;Paris/Bernardins/23;23 rue des Bernardins;75005;4.0;2;Voirie;48.849203, 2.350163
+Paris;;75105-18;Paris/Censier/14;14 rue Censier;75005;4.0;2;Voirie;48.840799, 2.354339
+Paris;;75105-21;Paris/Claude Bernard/16;16 rue Claude Bernard;75005;4.0;2;Voirie;48.839317, 2.348786
+Paris;;75107-01;Paris/Cognacq Jay/20;20 Rue Cognacq Jay;75007;4.0;2;Voirie;48.861884, 2.303037
+Paris;;75107-06;Paris/Chanaleilles/1;1 rue de Chanaleilles;75007;4.0;2;Voirie;48.853109, 2.318381
+Paris;;75107-11;Paris/Invalides/32;32 boulevard des Invalides;75007;4.0;;Voirie;48.852079, 2.314258
+Paris;;75107-15;Paris/Martignac/2;2 rue de Martignac;75007;4.0;2;Voirie;48.857978, 2.318504
+Paris;;75107-23;Paris/Ernest Psichari/13;13 Rue Ernest Psichari;75007;4.0;2;Voirie;48.856961, 2.307619
+Paris;;75108-02;Paris/Messine/12;12 Avenue de Messine;75008;4.0;1;Voirie;48.875836, 2.314287
+Paris;;75108-06;Paris/Matignon/2;2 avenue Matignon;75008;4.0;2;Voirie;48.869911, 2.312278
+Paris;;75108-08;Paris/Saint-Honoré/123;123 Rue du Faubourg Saint-Honoré;75008;4.0;2;Voirie;48.873128, 2.309727
+Paris;;75108-09;Paris/Rome/73;73 Rue de Rome;75008;4.0;2;Voirie;48.877823, 2.322859
+Paris;;75108-12;Paris/Malesherbes/7;7 boulevard Malesherbes;75008;4.0;2;Voirie;48.870606, 2.322603
+Paris;;75108-17;Paris/Astorg/11;11 rue d'Astorg;75008;4.0;2;Voirie;48.872837, 2.319379
+Paris;;75108-29;Paris/Haussmann/61;61 Boulevard Haussmann;75008;4.0;;Voirie;48.873809, 2.325689
+Paris;;75108-30;Paris/George V/44;44 Avenue George V;75008;4.0;2;Voirie;48.870632, 2.301229
+Paris;;75109-01;Paris/Adolphe Max/6;6 place Adolphe Max;75009;4.0;;Voirie;48.882934, 2.329416
+Paris;;75109-02;Paris/Madeleine/8;8 Boulevard de la Madeleine;75009;4.0;;Voirie;48.869959, 2.326818
+Paris;;75109-09;Paris/Chaussée d'Antin/5;5 Rue de la Chaussée d'Antin;75009;4.0;2;Voirie;48.871904, 2.333705
+Paris;1.0;75109-12;Paris/Trudaine/26;26 avenue Trudaine;75009;4.0;1;Voirie;48.881024, 2.341087
+Paris;;75109-13;Paris/Victoire/76;76 rue de la Victoire;75009;4.0;;Voirie;48.875305, 2.332571
+Paris;;75109-14;Paris/Victor Massé/35;35 rue Victor Massé;75009;4.0;1;Voirie;48.880941, 2.337009
+Paris;;75109-18;Paris/Chateaudun/21;21 Rue de Chateaudun;75009;4.0;;Voirie;48.875884, 2.338455
+Paris;;75109-19;Paris/La Fayette/56;56 Rue La Fayette;75009;4.0;2;Voirie;48.875296, 2.342112
+Paris;;75109-23;Paris/Aumale/28;28 rue d'Aumale;75009;4.0;;Voirie;48.878672, 2.334714
+Paris;;75110-04;Paris/Louis Blanc/67;67 rue Louis Blanc;75010;4.0;2;Voirie;48.883719, 2.360076
+Paris;;75110-05;Paris/La Fayette/143;143 Rue La Fayette;75010;4.0;;Voirie;48.87914, 2.355992
+Paris;;75110-08;Paris/Paradis/28;28 Rue de Paradis;75010;4.0;2;Voirie;48.875119, 2.352163
+Paris;;75110-17;Paris/Claude Vellefaux/3;3 avenue Claude Vellefaux;75010;4.0;2;Voirie;48.87415, 2.370264
+Paris;;75110-20;Paris/Beaurepaire/31;31 rue Beaurepaire;75010;4.0;2;Voirie;48.871464, 2.364195
+Paris;;75110-30;Paris/Rocroy/15;15 rue de Rocroy;75010;4.0;1;Voirie;48.880015, 2.350887
+Paris;;75110-31;Paris/Richerand/11;11 Avenue Richerand;75010;4.0;2;Voirie;48.872551, 2.366348
+Paris;;75111-04;Paris/Ledru Rollin/104;104 avenue Ledru Rollin;75011;4.0;1;Voirie;48.852323, 2.376908
+Paris;1.0;75111-07;Paris/Saint-Antoine/199;199 Rue du Faubourg Saint-Antoine;75011;4.0;;Voirie;48.850528, 2.382293
+Paris;;75111-13;Paris/Ledru Rollin/155;155 Avenue Ledru Rollin;75011;4.0;2;Voirie;48.855306, 2.378285
+Paris;;75111-16;Paris/République/86;86 avenue de la République;75011;4.0;2;Voirie;48.864092, 2.379939
+Paris;;75111-20;Paris/Richard Lenoir/36;36 Boulevard Richard Lenoir;75011;4.0;;Voirie;48.857253, 2.37143
+Paris;1.0;75111-27;Paris/Voltaire/106;106 Boulevard Voltaire;75011;4.0;1;Voirie;48.859303, 2.377273
+Paris;;75111-33;Paris/Saint-Maur/36;36 rue Saint-Maur;75011;4.0;;Voirie;48.861449, 2.380971
+Paris;;75112-06;Paris/Diderot/73;73 boulevard Diderot;75012;4.0;1;Voirie;48.847282, 2.385861
+Paris;;75112-14;Paris/Lyon/19;19 Rue de Lyon;75012;4.0;;Voirie;48.847261, 2.371591
+Paris;;75112-22;Paris/Saint-Mandé/94;94 avenue de Saint-Mandé;75012;4.0;2;Voirie;48.844425, 2.406705
+Paris;;75112-30;Paris/Charolais/2;2 rue du Charolais;75012;4.0;2;Voirie;48.839309, 2.387858
+Paris;;75112-32;Paris/Pommard/7;7 rue de Pommard;75012;4.0;;Voirie;48.836384, 2.384015
+Paris;;75112-33;Paris/Porte de Charenton/2;2 avenue de la Porte de Charenton;75012;4.0;2;Voirie;48.829926, 2.400791
+Paris;;75112-34;Paris/Picpus/122;122 ter Rue de Picpus;75012;4.0;2;Voirie;48.841147, 2.398745
+Paris;;75112-36;Paris/Nation/26;26 Place de la Nation;75012;4.0;2;Voirie;48.84752, 2.397065
+Paris;;75113-01;Paris/Bobillot/16;16 rue Bobillot;75013;4.0;2;Voirie;48.82955, 2.353728
+Paris;;75113-02;Paris/Arago/52;52 boulevard Arago;75013;4.0;1;Voirie;48.83513, 2.344551
+Paris;;75113-03;Paris/Paulin Enfert/6;6 rue Paulin Enfert;75013;4.0;2;Voirie;48.818843, 2.362141
+Paris;;75113-06;Paris/Rungis/2;2 Rue de Rungis;75013;4.0;2;Voirie;48.822204, 2.346046
+Paris;;75113-11;Paris/Berbier du Mets/26;26 rue Berbier du Mets;75013;4.0;;Voirie;48.83512, 2.350465
+Paris;;75113-14;Paris/Auguste Blanqui/50;50 Boulevard Auguste Blanqui;75013;4.0;;Voirie;48.829952, 2.349851
+Paris;;75113-24;Paris/Jeanne D'Arc/45;45 rue Jeanne D'Arc;75013;4.0;;Voirie;48.830505, 2.367183
+Paris;;75113-29;Paris/Hôpital/47;47 boulevard de l'Hôpital;75013;4.0;1;Voirie;48.840293, 2.362259
+Paris;;75113-30;Paris/Fernand Braudel/21;21 rue Fernand Braudel;75013;4.0;;Voirie;48.835633, 2.373106
+Paris;;75113-35;Paris/Leray/10;10 rue du Docteur Leray;75013;4.0;1;Voirie;48.823435, 2.35438
+Paris;;75113-37;Paris/Frigos/24;24 rue des Frigos;75013;4.0;2;Voirie;48.830936, 2.379916
+Paris;;75114-02;Paris/Castagnou/10;10 rue Castagnou;75014;4.0;2;Voirie;48.833208, 2.326292
+Paris;;75114-03;Paris/Edgar Quinet/2;2 boulevard Edgar Quinet;75014;4.0;2;Voirie;48.839565, 2.330116
+Paris;;75114-04;Paris/Boulard/1;1 rue Boulard;75014;4.0;2;Voirie;48.834775, 2.329793
+Paris;;75114-05;Paris/Henri Barbusse/66;66 rue Henri Barbusse;75014;4.0;2;Voirie;48.838684, 2.336811
+Paris;;75114-07;Paris/Didot/41;41 rue Didot;75014;4.0;;Voirie;48.831909, 2.320359
+Paris;;75114-15;Paris/Plantes/56;56 Rue des Plantes;75014;4.0;1;Voirie;48.828425, 2.321753
+Paris;;75114-21;Paris/Sibelle/29;29 avenue de la Sibelle;75014;4.0;1;Voirie;48.825546, 2.338255
+Paris;;75118-07;Paris/Championnet/28;28 rue Championnet;75018;4.0;2;Voirie;48.895471, 2.35001
+Paris;;75118-14;Paris/Ordener/120;120 Rue Ordener;75018;4.0;1;Voirie;48.893299, 2.339501
+Paris;;75118-18;Paris/Ordener/65;65 rue Ordener;75018;4.0;2;Voirie;48.891397, 2.350287
+Paris;;75118-40;Paris/Clichy/2;2 Boulevard de Clichy;75018;4.0;1;Voirie;48.882287, 2.339392
+Paris;;75119-07;Paris/Armand Carrel/46;46 rue Armand Carrel;75019;4.0;1;Voirie;48.882826, 2.375881
+Paris;;75119-08;Paris/Aubervilliers/126;126 rue d'Aubervilliers;75019;4.0;2;Voirie;48.89158, 2.369231
+Paris;;75119-17;Paris/David d'Angers/54;54 Rue David d'Angers;75019;4.0;2;Voirie;48.881775, 2.393727
+Paris;;75119-21;Paris/Botzaris/16;16 rue de Botzaris;75019;4.0;2;Voirie;48.876674, 2.381278
+Paris;1.0;75119-24;Paris/Jules Romains/1;1 Rue Jules Romains;75019;4.0;1;Voirie;48.872594, 2.378448
+Paris;;75120-12;Paris/Sorbier/40;40 Rue Sorbier;75020;4.0;2;Voirie;48.865678, 2.392983
+Paris;;75120-15;Paris/Bagnolet/142;142 Rue de Bagnolet;75020;4.0;2;Voirie;48.861624, 2.405716
+Paris;;75120-18;Paris/Monte Cristo/24;24 rue Monte Cristo;75020;4.0;2;Voirie;48.856009, 2.397747
+Paris;;75120-22;Paris/Harpignies/3;3 rue Harpignies;75020;4.0;1;Voirie;48.858762, 2.410735
+Paris;;75120-23;Paris/Vincennes/65;65 cours de Vincennes;75020;4.0;2;Voirie;48.848069, 2.403746
+Paris;;75120-29;Paris/Pelleport/86;86 rue Pelleport;75020;4.0;;Voirie;48.867708, 2.401969
+Paris;;75120-32;Paris/Gambetta/19;19 Avenue Gambetta;75020;4.0;2;Voirie;48.86381, 2.390712
+Paris;;75120-34;Paris/Charonne/158;158 boulevard de Charonne;75020;4.0;2;Voirie;48.856894, 2.39423
+Paris;;75120-40;Paris/Gambetta/249;249 avenue Gambetta;75020;4.0;2;Voirie;48.875755, 2.405946
+Paris;;75120-42;Paris/Belleville/265;265 rue de Belleville;75020;4.0;2;Voirie;48.874686, 2.390649
+Le Chesnay;;78158-01;Le Chesnay/Charles de Gaulle/2;2 avenue Charles de Gaulle;78150;6.0;;Voirie;48.82962, 2.115602
+Verrières-le-Buisson;1.0;91645-01;Verrières-le-Buisson/Pré-Hauts/1;1 Place des Pré-Hauts;91370;5.0;1;Voirie;48.739204, 2.246106
+Antony;;92002-01;Antony/Anciens combattants d'Afrique du Nord/1;1 place des Anciens combattants d'Afrique du Nord;92160;5.0;;Voirie;48.75016, 2.300505
+Asnières-sur-Seine;;92004-06;Asnières-sur-Seine/Colombes/4;4 rue de Colombes;92600;5.0;;Voirie;48.912057, 2.286286
+Asnières-sur-Seine;;92004-09;Asnières-sur-Seine/Henri Say/11;11 rue Henri Say;92600;6.0;;Voirie;48.915233, 2.276795
+Asnières-sur-Seine;;92004-15;Asnières-sur-Seine/Olympe de Gouge/1;1 rue Olympe de Gouge;92600;6.0;;Voirie;48.918739, 2.317364
+Asnières-sur-Seine;;92004-21;Asnières-sur-Seine/Henri Poincaré/53;53 rue Henri Poincaré;92600;5.0;;Voirie;48.931841, 2.280509
+Boulogne-Billancourt;;92012-01;Boulogne-Billancourt/Édouard Vaillant/81;81 avenue Édouard Vaillant;92100;6.0;;Voirie;48.834439, 2.246696
+Boulogne-Billancourt;;92012-50;Boulogne-Billancourt/Alphonse Le Gallo/35;35 quai Alphonse Le Gallo;92100;6.0;;Voirie;48.835282, 2.226172
+Bourg-la-Reine;;92014-02;Bourg-la-Reine/Carnot/33;33 boulevard Carnot;92340;6.0;;Voirie;48.777202, 2.322581
+Châtenay-Malabry;;92019-01;Châtenay-Malabry/Jean Jaurès/280;280 avenue Jean Jaurès;92290;6.0;;Voirie;48.767461, 2.255659
+Chaville;;92022-02;Chaville/Anatole France/28;28 Rue Anatole France;92370;6.0;;Voirie;48.804546, 2.188119
+Clamart;;92023-12;Clamart/Porte de Trivaux/130;130 rue de la Porte de Trivaux;92140;6.0;;Voirie;48.784995, 2.238521
+Clamart;;92023-19;Clamart/Ferrari/1;1 Place Ferrari;92140;6.0;;Voirie;48.798907, 2.262751
+Colombes;1.0;92025-01;Colombes/Maréchal Joffre/30;30 rue du Maréchal Joffre;92700;6.0;;Voirie;48.921955, 2.255024
+Colombes;;92025-08;Colombes/Europe/5;5 avenue de l'Europe;92700;6.0;;Voirie;48.92693, 2.245822
+Courbevoie;;92026-07;Courbevoie/Arche/49;49 avenue de l'Arche;92400;6.0;;Voirie;48.898114, 2.238129
+Fontenay-aux-Roses;;92032-02;Fontenay-aux-Roses/Robert Marchand/32;32 rue Robert Marchand;92260;7.0;;Voirie;48.788468, 2.289394
+Fontenay-aux-Roses;;92032-06;Fontenay-aux-Roses/Paul Langevin/70;70 Avenue Paul Langevin;92260;6.0;;Voirie;48.783609, 2.282844
+Fontenay-aux-Roses;;92032-08;Fontenay-aux-Roses/Lombard/20;20 Avenue Lombard;92260;6.0;;Voirie;48.787042, 2.293305
+La Garenne-Colombes;1.0;92035-01;La Garenne-Colombes/République/52;52 Boulevard de la République;92250;5.0;1;Voirie;48.906496, 2.247794
+La Garenne-Colombes;;92035-02;La Garenne-Colombes/National/90;90 boulevard National;92250;6.0;;Voirie;48.908533, 2.237552
+Gennevilliers;;92036-08;Gennevilliers/République/16;16 avenue de la république;92230;6.0;;Voirie;48.920711, 2.296091
+Issy-les-Moulineaux;;92040-01;Issy-les-Moulineaux/Camille Desmoulins/31;31 Rue Camille Desmoulins;92130;6.0;;Voirie;48.829625, 2.264453
+Issy-les-Moulineaux;;92040-02;Issy-les-Moulineaux/Vaudetard/7;7 rue Vaudetard;92130;7.0;;Voirie;48.827071, 2.276755
+Issy-les-Moulineaux;;92040-06;Issy-les-Moulineaux/Guynemer/50;50 Rue Guynemer;92130;6.0;;Voirie;48.830418, 2.27745
+Issy-les-Moulineaux;;92040-10;Issy-les-Moulineaux/Garibaldi/18;18 Boulevard Garibaldi;92130;6.0;;Voirie;48.821741, 2.261365
+Issy-les-Moulineaux;;92040-12;Issy-les-Moulineaux/Jean Jaurès/22;22 Avenue Jean Jaurès;92130;6.0;;Voirie;48.822996, 2.275646
+Issy-les-Moulineaux;;92040-15;Issy-les-Moulineaux/Gallieni/27;27 boulevard Gallieni;92130;6.0;;Voirie;48.827648, 2.267617
+Issy-les-Moulineaux;;92040-18;Issy-les-Moulineaux/Guynemer/16;16 rue Guynemer;92130;6.0;;Voirie;48.83086, 2.278188
+Issy-les-Moulineaux;;92040-21;Issy-les-Moulineaux/Bachaga Boualam/1;1 place du Bachaga Boualam;92130;6.0;;Voirie;
+Malakoff;;92046-08;Malakoff/Arblade/9;9 avenue Arblade;92240;6.0;;Voirie;48.818021, 2.291933
+Meudon;;92048-09;Meudon/De Gaulle/19;19 avenue du Général de Gaulle;92190;6.0;;Voirie;
+Nanterre;;92050-05;Nanterre/Georges Clémenceau/205;205 Avenue Georges Clémenceau;92000;7.0;;Voirie;48.885996, 2.215901
+Nanterre;;92050-06;Nanterre/Lenine/65;65 Avenue Lenine;92000;6.0;;Voirie;48.887965, 2.19055
+Nanterre;;92050-09;Nanterre/Gare/9;9 Rue de la Gare;92000;6.0;;Voirie;48.90303, 2.203871
+Nanterre;;92050-15;Nanterre/Paul Vaillant Couturier/94;94 Rue Paul Vaillant Couturier;92000;6.0;;Voirie;48.8829, 2.204029
+Nanterre;;92050-16;Nanterre/Maréchal Joffre/28;28 Avenue du Maréchal Joffre;92000;5.0;;Voirie;48.885544, 2.195926
+Nanterre;;92050-27;Nanterre/Vincent Raspail/5;5 boulevard Vincent Raspail;92000;6.0;;Voirie;48.896378, 2.207461
+Nanterre;;92050-28;Nanterre/Guilleraies/5;5 avenue des Guilleraies;92000;4.0;;Voirie;48.895556, 2.182438
+Nanterre;;92050-29;Nanterre/Luaps/17;17 Rue des Luaps Prolongée;92000;4.0;;Voirie;48.881744, 2.21047
+Plessis-Robinson;;92060-04;Plessis-Robinson/Galilée/16;16 avenue Galilée;92350;7.0;;Voirie;48.777537, 2.245773
+Rueil-Malmaison;;92063-18;Rueil-Malmaison/Colmar/17;17 Avenue de Colmar;92500;6.0;;Voirie;48.887312, 2.183449
+Rueil-Malmaison;;92063-20;Rueil-Malmaison/Charles Drot/21;21 Rue Charles Drot;92500;6.0;;Voirie;48.87634, 2.187611
+Rueil-Malmaison;;92063-23;Rueil-Malmaison/Empereur/174;174 route de l'Empereur;92500;6.0;;Voirie;48.863136, 2.182032
+Saint-Cloud;;92064-03;Saint-Cloud/Mont Valérien/38;38 ter rue du Mont Valérien;92210;5.0;1;Voirie;48.856947, 2.215253
+Sèvres;;92072-06;Sèvres/Riocreux/1;1 Rue Riocreux;92310;6.0;;Voirie;48.827413, 2.199754
+Sèvres;;92072-13;Sèvres/Wolfenbüttel/1;1 Rue de Wolfenbüttel;92310;6.0;;Voirie;48.815362, 2.213878
+Suresnes;;92073-10;Suresnes/Stalingrad/11;11 Place Stalingrad;92150;6.0;;Voirie;48.863334, 2.201266
+Vanves;;92075-03;Vanves/Larmeroux/12;12 rue Larmeroux;92170;5.0;;Voirie;48.817004, 2.281125
+Ville-d'Avray;1.0;92077-01;Ville-d'Avray/Charles de Gaulle/1;1 place Charles de Gaulle;92410;6.0;;Voirie;
+Villeneuve-la-Garenne;;92078-02;Villeneuve-la-Garenne/Pompidou/29;29 Avenue Georges Pompidou;92390;5.0;1;Voirie;48.941497, 2.323491
+Aulnay-sous-bois;;93005-02;Aulnay-sous-bois/Isidore Nerat/6;6 rue Isidore Nerat;93600;6.0;1;Voirie;48.930257, 2.494558
+Aulnay-sous-bois;;93005-07;Aulnay-sous-bois/Maryse Bastié/1;1 rue Maryse Bastié;93600;6.0;1;Voirie;48.959282, 2.495626
+Bagnolet;1.0;93006-04;Bagnolet/De Gaulle/33;33 avenue du Général de Gaulle;93170;6.0;;Voirie;48.864757, 2.417462
+Bagnolet;;93006-07;Bagnolet/Edouard Vaillant/60;60 rue Edouard Vaillant;93170;6.0;;Voirie;48.858096, 2.415509
+Drancy;;93029-09;Drancy/Marcelin Berthelot/73;73 rue Marcelin Berthelot;93700;4.0;;Voirie;48.917535, 2.446386
+Drancy;;93029-13;Drancy/Nouvelle/7;7 rue Nouvelle;93700;5.0;1;Voirie;48.928943, 2.433465
+Montfermeil;1.0;93047-01;Montfermeil/Leclerc/19;19 rue du Général Leclerc;93370;6.0;1;Voirie;48.897584, 2.574597
+Montreuil;;93048-10;Montreuil/Victor Beausse/62;62 rue Victor Beausse;93100;6.0;;Voirie;48.868179, 2.441835
+Montreuil;;93048-11;Montreuil/Paul Signac/9;9 Avenue Paul Signac;93100;6.0;;Voirie;48.868449, 2.452167
+Montreuil;;93048-14;Montreuil/Yélimané/1;1 rue de Yélimané;93100;6.0;;Voirie;48.860822, 2.458003
+Neuilly-Plaisance;;93049-03;Neuilly-Plaisance/Stalingrad/1;1 place Stalingrad;93360;7.0;;Voirie;
+Noisy-le-Sec;1.0;93053-02;Noisy-le-Sec/Frépillon/1;1 rue Frépillon;93130;6.0;;Voirie;48.888549, 2.452899
+Rosny-sous-Bois;;93064-04;Rosny-sous-Bois/Lisbonne/16;16 rue de Lisbonne;93110;6.0;;Voirie;48.881638, 2.469817
+Saint-Ouen;;93070-08;Saint-Ouen/Lafontaine/1;1 rue Lafontaine;93400;5.0;;Voirie;48.901345, 2.326785
+Saint-Ouen;;93070-09;Saint-Ouen/Édouard Vaillant/28;28 rue Édouard Vaillant;93400;7.0;;Voirie;48.903009, 2.332068
+Alfortville;;94002-01;Alfortville/Charles de Gaulle/16;16 Rue Charles de Gaulle;94140;6.0;;Voirie;48.814453, 2.413664
+Cachan;1.0;94016-01;Cachan/Camille Desmoulins/3;3 Rue Camille Desmoulins;94230;5.0;;Voirie;48.794302, 2.334616
+Cachan;;94016-04;Cachan/Division Leclerc/58;58 Avenue de la Division Leclerc;94230;6.0;;Voirie;48.786477, 2.329499
+Champigny-sur-Marne;;94017-05;Champigny-sur-Marne/Bois l'Abbé/53;53 rue du Bois l'Abbé;94500;6.0;;Voirie;48.810372, 2.542199
+Créteil;;94028-05;Créteil/François Mauriac/2;2 avenue François Mauriac;94000;6.0;;Voirie;48.786039, 2.454514
+Créteil;;94028-06;Créteil/Leclerc/216;216 avenue du Général Leclerc;94000;6.0;;Voirie;48.781864, 2.473671
+Créteil;;94028-08;Créteil/Archives/5;5 Rue des Archives;94000;6.0;;Voirie;48.783886, 2.456661
+Créteil;;94028-09;Créteil/De Gaulle/61;61 avenue du Général De Gaulle;94000;6.0;;Voirie;48.788799, 2.442388
+Créteil;;94028-13;Créteil/Cotonou/4;4 Rue de Cotonou;94000;4.0;;Voirie;48.794728, 2.460017
+Créteil;;94028-14;Créteil/Maréchal Lyautey/16;16 Avenue du Maréchal Lyautey;94000;6.0;;Voirie;48.790904, 2.446578
+Créteil;;94028-17;Créteil/Mesly/5;5 rue de Mesly;94000;6.0;;Voirie;48.789738, 2.46141
+Limeil-Brévannes;;94044-02;Limeil-Brévannes/Lavoisier/12;12 rue Lavoisier;94450;5.0;;Voirie;48.7388, 2.489555
+Maisons-Alfort;;94046-04;Maisons-Alfort/Léon Blum/16;16 avenue Léon Blum;94700;6.0;;Voirie;48.800912, 2.43527
+Maisons-Alfort;;94046-09;Maisons-Alfort/Leclerc/145;145 avenue du Général Leclerc;94700;6.0;;Voirie;48.809524, 2.434391
+Créteil;;94028-18;Créteil/Laferrière/142;142 Avenue Laferrière;94000;6.0;;Voirie;48.802997, 2.461149
+Joinville-le-Pont;;94042-04;Joinville-le-Pont/Mozart/18;18 Place Mozart;94340;6.0;;Voirie;48.824502, 2.475563
+Limeil-Brévannes;;94044-03;Limeil-Brévannes/Valenton/55;55 avenue de Valenton;94450;6.0;;Voirie;48.74361, 2.504054
+Nogent-sur-Marne;;94052-01;Nogent-sur-Marne/Georges Clémenceau/10;10 avenue Georges Clémenceau;94130;6.0;1;Voirie;48.83568, 2.472139
+Villejuif;;94076-05;Villejuif/Marcel Paul/6;6 Rue Marcel Paul;94800;6.0;;Voirie;48.799374, 2.356933
+Villejuif;;94076-12;Villejuif/Paris/149;149 Avenue de Paris;94800;6.0;;Voirie;48.799019, 2.365903
+Vincennes;;94080-02;Vincennes/De Gaulle/6;6 avenue du Général de Gaulle;94300;6.0;1;Voirie;48.84452, 2.434348
+Vincennes;;94080-04;Vincennes/Murs du parc/2;2 avenue des murs du parc;94080;6.0;1;Voirie;
+Bezons;;95063-03;Bezons/Emile Zola/50;50 rue Emile Zola;95870;6.0;1;Voirie;48.923624, 2.209167
+Paris;;75117-41;Paris/Charles Fillion/22;22 place Charles Fillion;75017;4.0;1;Voirie;48.888455, 2.316122
+Paris;;75118-01;Paris/Henri Huchard/48;48 Rue Henri Huchard;75018;4.0;2;Voirie;48.899251, 2.33075
+Paris;;75118-06;Paris/Custine/45;45 rue Custine;75018;4.0;1;Voirie;48.889312, 2.344306
+Paris;;75118-20;Paris/Rachel/1;1 avenue Rachel;75018;4.0;1;Voirie;48.884513, 2.330534
+Paris;;75118-34;Paris/Marcadet/7;7 rue Marcadet;75018;4.0;2;Voirie;48.8903, 2.354917
+Paris;;75119-04;Paris/Flandre/119;119 avenue de Flandre;75019;4.0;2;Voirie;48.891455, 2.377335
+Paris;;75119-05;Paris/Émile Reynaud/4;4 rue Émile Reynaud;75019;4.0;2;Voirie;48.901611, 2.387185
+Paris;;75119-06;Paris/Flandre/61;61 Avenue de Flandre;75019;4.0;2;Voirie;48.888044, 2.373281
+Paris;;75119-10;Paris/Algérie/7;7 boulevard d'Algérie;75019;4.0;;Voirie;48.879879, 2.400468
+Paris;;75119-25;Paris/Jacques Duchesne/1;1 rue Jacques Duchesne;75019;4.0;2;Voirie;48.898932, 2.374036
+Paris;;75119-27;Paris/Crimée/8;8 rue de Crimée;75019;4.0;1;Voirie;48.885918, 2.382268
+Paris;;75119-30;Paris/Bois/1;1 rue des Bois;75019;4.0;;Voirie;48.87799, 2.396641
+Paris;;75119-31;Paris/Manin/1;1 rue Manin;75019;4.0;;Voirie;48.876576, 2.3791
+Paris;;75119-32;Paris/Crimée/82;82 rue de Crimée;75019;4.0;2;Voirie;48.88228, 2.386495
+Paris;;75120-04;Paris/Jean Veber/3;3 rue Jean Veber;75020;4.0;2;Voirie;48.862503, 2.409606
+Paris;;75120-08;Paris/Ménilmontant/122;122 Rue Ménilmontant;75020;4.0;2;Voirie;48.869934, 2.395244
+Paris;;75120-09;Paris/Pelleport/105;105 bis Rue Pelleport;75020;4.0;1;Voirie;48.868962, 2.400882
+Paris;;75120-21;Paris/Pyrénées/89;89 Rue des Pyrénées;75020;4.0;2;Voirie;48.854435, 2.405436
+Paris;;75120-25;Paris/Couronnes/2;2 rue des Couronnes;75020;4.0;;Voirie;48.869206, 2.381213
+Paris;;75120-27;Paris/Pyrénées/231;231 rue des Pyrénées;75020;4.0;;Voirie;48.863792, 2.399157
+Paris;;75120-35;Paris/Charonne/52;52 boulevard de Charonne;75020;4.0;2;Voirie;48.851958, 2.398279
+Paris;;75120-44;Paris/Mortier/15;15 boulevard Mortier;75020;4.0;1;Voirie;48.865909, 2.408529
+Verrières-le-Buisson;;91645-03;Verrières-le-Buisson/D'Estienne d'Orves/204;204 rue d’Estienne d’Orves;91370;6.0;1;Voirie;48.740899, 2.252358
+Asnières-sur-Seine;1.0;92004-07;Asnières-sur-Seine/Georges Guynemer/97;97 Rue Georges Guynemer;92600;6.0;;Voirie;48.91488, 2.28907
+Asnières-sur-Seine;;92004-08;Asnières-sur-Seine/Argenteuil/152;152 avenue d'Argenteuil;92600;6.0;;Voirie;48.917545, 2.28178
+Asnières-sur-Seine;;92004-18;Asnières-sur-Seine/Émile Zola/17;17 Rue Émile Zola;92600;6.0;;Voirie;48.925303, 2.281556
+Bagneux;;92007-03;Bagneux/Verdun/127;127 rue de Verdun;92220;6.0;;Voirie;48.801971, 2.32186
+Bagneux;;92007-08;Bagneux/Jean Marin Naudin/5;5 Rue Jean Marin Naudin;92220;6.0;;Voirie;48.805918, 2.314493
+Boulogne-Billancourt;;92012-12;Boulogne-Billancourt/Henri Martin/2;2 rue Henri Martin;92100;6.0;;Voirie;48.836631, 2.252403
+Boulogne-Billancourt;;92012-15;Boulogne-Billancourt/République/24;24 Boulevard de la République;92100;6.0;;Voirie;48.831825, 2.254438
+Châtenay-Malabry;;92019-04;Châtenay-Malabry/Division Leclerc/81;81 Avenue de la Division Leclerc;92290;6.0;;Voirie;48.762164, 2.283837
+Châtenay-Malabry;;92019-07;Châtenay-Malabry/Cyrano de Bergerac/6;6 Place Cyrano de Bergerac;92290;6.0;;Voirie;48.768592, 2.249955
+Châtillon;;92020-02;Châtillon/République/140;140 Avenue de la République;92320;5.0;;Voirie;48.806039, 2.298148
+Châtillon;1.0;92020-06;Châtillon/Division Leclerc/12;12 Avenue de la Division Leclerc;92320;6.0;;Voirie;48.799176, 2.284574
+Clichy-la-garenne;;92024-05;Clichy-la-garenne/Martre/41;41 rue Martre;92210;6.0;;Voirie;
+Clichy-la-garenne;;92024-06;Clichy-la-garenne/Jean Jaurès/122;122 boulevard Jean Jaurès;92210;6.0;;Voirie;
+Clichy-la-garenne;;92024-07;Clichy-la-garenne/Victor Hugo/123;123 boulevard Victor Hugo;92210;5.0;;Voirie;
+Colombes;;92025-02;Colombes/Finlande/1;1 place de Finlande;92700;6.0;;Voirie;48.93106, 2.260084
+Colombes;;92025-04;Colombes/Ménelotte/8;8 avenue Ménelotte;92700;6.0;;Voirie;48.924638, 2.259328
+Colombes;;92025-07;Colombes/Audra/7;7 Avenue Audra;92700;6.0;;Voirie;48.927778, 2.252866
+Colombes;;92025-11;Colombes/Gabriel Péri/335;335 rue Gabriel Péri;92700;5.0;;Voirie;48.917279, 2.236585
+Courbevoie;;92026-04;Courbevoie/Sébastopol/4;4 Rue Sébastopol;92400;7.0;;Voirie;48.898553, 2.248269
+Gennevilliers;;92036-06;Gennevilliers/De Gaulle/23;23 avenue du Général de Gaulle;92230;6.0;;Voirie;48.93355, 2.310302
+Gennevilliers;;92036-12;Gennevilliers/Louise Michel/36;36 Boulevard Louise Michel;92230;6.0;;Voirie;48.922808, 2.320861
+Gennevilliers;;92036-13;Gennevilliers/Louis Roche/125;125 Avenue Louis Roche;92230;6.0;;Voirie;48.927282, 2.313527
+Issy-les-Moulineaux;;92040-05;Issy-les-Moulineaux/Verdun/135;135 avenue de Verdun;92130;6.0;;Voirie;48.818624, 2.253301
+Issy-les-Moulineaux;;92040-07;Issy-les-Moulineaux/Gallieni/59;59 boulevard Gallieni;92130;6.0;;Voirie;48.824904, 2.26791
+Malakoff;;92046-02;Malakoff/Gabriel Péri/120;120 boulevard Gabriel Péri;92240;7.0;;Voirie;48.81876, 2.30364
+Malakoff;;92046-05;Malakoff/Paul Vaillant Couturier/49;49 Rue Paul Vaillant Couturier;92240;5.0;;Voirie;48.813703, 2.295952
+Malakoff;;92046-06;Malakoff/Pierre Brossolette/192;192 avenue Pierre Brossolette;92240;6.0;;Voirie;48.814139, 2.302687
+Meudon;;92048-02;Meudon/Paris/6;6 rue de Paris;92190;6.0;;Voirie;48.816982, 2.248005
+Meudon;1.0;92048-04;Meudon/Verrerie/10;10 rue de la Verrerie;92190;6.0;;Voirie;48.820571, 2.23381
+Montrouge;;92049-10;Montrouge/Barbès/24;24 Rue Barbès;92120;6.0;;Voirie;48.81714, 2.328448
+Montrouge;;92049-15;Montrouge/Verdun/6;6 avenue de Verdun;92120;6.0;;Voirie;48.811506, 2.315806
+Nanterre;;92050-04;Nanterre/Pablo Picasso/20;20 Avenue Pablo Picasso;92000;6.0;;Voirie;48.891878, 2.213984
+Nanterre;1.0;92050-07;Nanterre/Gambetta/20;20 Rue Gambetta;92000;6.0;;Voirie;48.887981, 2.199459
+Nanterre;;92050-08;Nanterre/Couchant/3;3 boulevard du Couchant;92000;6.0;;Voirie;48.891666, 2.192205
+Nanterre;;92050-17;Nanterre/National/134;134 boulevard National;92000;6.0;;Voirie;48.888513, 2.184221
+Nanterre;;92050-34;Nanterre/Peupliers/13;13 Rue des Peupliers;92000;6.0;;Voirie;48.913142, 2.213865
+Neuilly-sur-Seine;;92051-01;Neuilly-sur-Seine/Bineau/161;161 boulevard Bineau;92200;6.0;;Voirie;48.89104, 2.26988
+Puteaux;;92062-04;Puteaux/Arago/52;52 rue Arago;92800;5.0;;Voirie;48.886344, 2.248145
+Rueil-Malmaison;;92063-04;Rueil-Malmaison/Albert 1er/2;2 Avenue Albert 1er;92500;6.0;;Voirie;48.880087, 2.18048
+Rueil-Malmaison;;92063-16;Rueil-Malmaison/Napoléon Bonaparte/260;260 avenue Napoléon Bonaparte;92500;6.0;;Voirie;48.87241, 2.161506
+Suresnes;;92073-01;Suresnes/Worth/45;45 rue Worth;92150;6.0;;Voirie;48.871124, 2.221076
+Suresnes;;92073-02;Suresnes/Salomon de Rothschild/3;3 Rue Salomon de Rothschild;92150;6.0;;Voirie;48.873209, 2.232541
+Suresnes;;92073-04;Suresnes/Henri Sellier/50;50 Boulevard Henri Sellier;92150;6.0;;Voirie;48.868418, 2.222943
+Suresnes;;92073-07;Suresnes/Georges Pompidou/37;37 avenue Georges Pompidou;92150;6.0;;Voirie;48.875627, 2.232283
+Suresnes;;92073-09;Suresnes/Tuilerie/33;33 Rue de la Tuilerie;92150;6.0;;Voirie;48.86188, 2.213465
+Vanves;1.0;92075-04;Vanves/Jean Bleuzen/77;77 Rue Jean Bleuzen;92170;6.0;;Voirie;48.823287, 2.29624
+Vanves;;92075-05;Vanves/Jean Jaurès/101;101 rue Jean Jaurès;92170;6.0;;Voirie;48.825817, 2.290337
+Ville-d'Avray;;92077-02;Ville-d'Avray/Versailles/211;211 Rue de Versailles;92410;5.0;;Voirie;48.818219, 2.165659
+Aubervilliers;;93001-13;Aubervilliers/Victor Hugo/45;45 avenue Victor Hugo;93300;6.0;1;Voirie;48.90352, 2.37198
+Aulnay-sous-bois;1.0;93005-01;Aulnay-sous-bois/Félix Faure/22;22 boulevard Félix Faure;93600;5.0;1;Voirie;48.933064, 2.498635
+Aulnay-sous-bois;;93005-03;Aulnay-sous-bois/Sevran/1;1 rue de Sevran;93600;6.0;;Voirie;48.940818, 2.50001
+Aulnay-sous-bois;;93005-04;Aulnay-sous-bois/8 mai/9;9 rue du 8 mai;93600;6.0;;Voirie;48.946387, 2.509362
+Le Blanc-Mesnil;;93007-01;Le Blanc-Mesnil/Claude Terrasse/1;1 rue Claude Terrasse;93150;6.0;1;Voirie;48.937775, 2.462495
+Le Bourget;;93013-01;Le Bourget/Chevalier de la Barre/7;7 Rue du Chevalier de la Barre;93350;6.0;;Voirie;48.930853, 2.423452
+Le Bourget;;93013-03;Le Bourget/John Fitzgerald Kennedy/2;2 Avenue John Fitzgerald Kennedy;93350;6.0;;Voirie;48.938154, 2.428357
+Drancy;;93029-01;Drancy/Saint Stenay/29;29 rue Saint Stenay;93700;7.0;;Voirie;48.920511, 2.42114
+Drancy;1.0;93029-02;Drancy/Couturier/24;24 boulevard Paul Vaillant Couturier;93700;6.0;;Voirie;48.922394, 2.447674
+Drancy;;93029-14;Drancy/Roger Salengro/3;3 rue Roger Salengro;93700;4.0;;Voirie;48.921793, 2.441252
+Drancy;;93029-15;Drancy/Diderot/125;125 rue Diderot;93700;5.0;;Voirie;48.919758, 2.428811
+Épinay-sur-Seine;;93031-03;Épinay-sur-Seine/Avenir/1;1 rue de l'Avenir;93800;6.0;1;Voirie;48.957916, 2.327239
+Les Lilas;;93045-02;Les Lilas/Bruyères/10;10 Rue des Bruyères;93260;6.0;1;Voirie;48.878165, 2.413175
+Les Lilas;;93045-03;Les Lilas/Léon Renault/19;19 rue Léon Renault;93260;6.0;1;Voirie;48.881202, 2.422438
+Montreuil;;93048-05;Montreuil/Théophile Sueur/196;196 boulevard Théophile Sueur;93100;6.0;;Voirie;48.862368, 2.465994
+Montreuil;;93048-06;Montreuil/Pierre Brossolette/61;61 rue Pierre Brossolette;93100;6.0;;Voirie;48.863779, 2.481924
+Montreuil;;93048-08;Montreuil/Désiré Préaux/11;11 rue Désiré Préaux;93100;6.0;;Voirie;48.858251, 2.431608
+Neuilly Plaisance;;93049-01;Neuilly Plaisance/Georges Clémenceau/25;25 avenue Georges Clémenceau;93360;6.0;;Voirie;48.861818, 2.504106
+Pantin;;93055-04;Pantin/Église/44;44 Place de l'Église;93500;6.0;;Voirie;48.892912, 2.413859
+Pantin;;93055-14;Pantin/Anatole France/1;1 avenue Anatole France;93500;6.0;;Voirie;48.895095, 2.425628
+La Garenne-Colombes;;92035-03;La Garenne-Colombes/Transvaal/3;3 Rue du Transvaal;92250;6.0;;Voirie;48.913462, 2.257245
+La Garenne-Colombes;;92035-05;La Garenne-Colombes/National/31;31 boulevard National;92250;6.0;;Voirie;48.903855, 2.239145
+Issy-les-Moulineaux;;92040-04;Issy-les-Moulineaux/Rodin/66;66 boulevard Rodin;92130;6.0;;Voirie;48.818799, 2.257864
+Issy-les-Moulineaux;;92040-11;Issy-les-Moulineaux/Promenade du Verger/166;166 promenade du Verger;92130;6.0;;Voirie;48.817181, 2.268348
+Issy-les-Moulineaux;;92040-19;Issy-les-Moulineaux/Champ Chardon/44;44 Rue de Champ Chardon;92130;6.0;;Voirie;48.82212, 2.252386
+Issy-les-Moulineaux;;92040-20;Issy-les-Moulineaux/De Gaulle/88;88 avenue du Général de Gaulle;92130;6.0;;Voirie;48.818714, 2.277641
+Issy-les-Moulineaux;;92040-22;Issy-les-Moulineaux/Égalité/57;57 Rue de l'Égalité;92130;6.0;;Voirie;48.816808, 2.260782
+Malakoff;;92046-07;Malakoff/Legrand/1;1 Rue Legrand;92240;5.0;;Voirie;48.824223, 2.303989
+Meudon;;92048-01;Meudon/Ponceau/2;2 rue Ponceau;92190;4.0;;Voirie;48.812414, 2.237817
+Meudon;;92048-03;Meudon/Marcel Allégot/12;12 rue Marcel Allégot;92190;6.0;;Voirie;48.82122, 2.227455
+Meudon-la-Forêt;;92048-07;Meudon/Jeanne Braconnier/3;3 rue Jeanne Braconnier;92360;6.0;;Voirie;48.789773, 2.21188
+Meudon-la-Forêt;;92048-08;Meudon/Maréchal Juin/18;18 avenue du Maréchal Juin;92360;6.0;;Voirie;48.787682, 2.217136
+Montrouge;;92049-02;Montrouge/Jean Jaurès/51;51 avenue Jean Jaurès;92120;6.0;;Voirie;48.816563, 2.313118
+Montrouge;1.0;92049-12;Montrouge/République/43;43 avenue de la République;92120;6.0;;Voirie;48.818371, 2.319595
+Nanterre;;92050-11;Nanterre/République/403;403 Avenue de la République;92000;6.0;;Voirie;48.912309, 2.223763
+Nanterre;;92050-18;Nanterre/Waldeck Rochet/8;8 rue Waldeck Rochet;92000;6.0;;Voirie;48.89035, 2.197793
+Paris;;75108-32;Paris/Tronchet/19;19 rue Tronchet;75008;4.0;2;Voirie;48.872225, 2.325844
+Paris;;75109-03;Paris/Rochambeau/6;6 rue Rochambeau;75009;4.0;;Voirie;48.877384, 2.34648
+Paris;;75109-04;Paris/Turgot/4;4 rue Turgot;75009;4.0;1;Voirie;48.880073, 2.345554
+Paris;;75109-05;Paris/Clichy/23;23 Boulevard de Clichy;75009;4.0;1;Voirie;48.882447, 2.336371
+Paris;;75109-11;Paris/Conservatoire/13;13 rue du conservatoire;75009;4.0;2;Voirie;48.873591, 2.346832
+Paris;;75110-01;Paris/Valmy/107;107 Quai de Valmy;75010;4.0;2;Voirie;48.875968, 2.365718
+Paris;;75110-02;Paris/Guy Patin/10;10 rue Guy Patin;75010;4.0;2;Voirie;48.883263, 2.351155
+Paris;;75110-09;Paris/Grange aux Belles/11;11 Rue de la Grange aux Belles;75010;4.0;1;Voirie;48.873829, 2.364968
+Paris;;75110-11;Paris/Sibour/2;2 rue Sibour;75010;4.0;2;Voirie;48.875003, 2.358833
+Paris;;75110-25;Paris/Metz/6;6 Rue de Metz;75010;4.0;;Voirie;48.870887, 2.35392
+Paris;;75110-32;Paris/Saint-Denis/91;91 rue du Faubourg Saint-Denis;75010;4.0;;Voirie;48.87408, 2.355076
+Paris;;75111-01;Paris/Richard Lenoir/8;8 Boulevard Richard Lenoir;75011;4.0;1;Voirie;48.854473, 2.370168
+Paris;;75111-03;Paris/Philippe Auguste/1;1 avenue Philippe Auguste;75011;4.0;1;Voirie;48.849463, 2.395181
+Paris;;75111-14;Paris/Renault/2;2 rue du Général Renault;75011;4.0;3;Voirie;48.861161, 2.377977
+Paris;;75111-18;Paris/République/5;5 avenue de la République;75011;4.0;2;Voirie;48.866743, 2.36754
+Paris;;75111-25;Paris/Faidherbe/27;27 Rue Faidherbe;75011;4.0;1;Voirie;48.852641, 2.382977
+Paris;;75111-26;Paris/François de Neufchateau/11;11 rue François de Neufchateau;75011;4.0;2;Voirie;48.856135, 2.38256
+Paris;;75111-36;Paris/Parmentier/62;62 Avenue Parmentier;75011;4.0;;Voirie;48.862798, 2.376544
+Paris;;75112-09;Paris/Crozatier/33;33 rue Crozatier;75012;4.0;2;Voirie;48.84719, 2.38121
+Paris;;75112-18;Paris/Pirogues de Bercy/44;44 Rue des Pirogues de Bercy;75012;4.0;2;Voirie;48.832783, 2.387035
+Paris;1.0;75112-19;Paris/Diderot/172;172 boulevard Diderot;75012;4.0;1;Voirie;48.846778, 2.382059
+Paris;;75112-23;Paris/Saint-Mandé/48;48 Avenue de Saint-Mandé;75012;4.0;;Voirie;48.844836, 2.401637
+Paris;;75112-24;Paris/Fabre d'Églantine/2;2 Rue Fabre d'Églantine;75012;4.0;1;Voirie;48.846439, 2.395565
+Paris;;75112-27;Paris/Arnold Netter/10;10 Avenue du Docteur Arnold Netter;75012;4.0;1;Voirie;48.841608, 2.404957
+Paris;;75112-28;Paris/Laperrine/15;15 avenue du Général Laperrine;75012;4.0;2;Voirie;48.834089, 2.406381
+Paris;;75112-35;Paris/Émile Laurent/1;1 avenue Émile Laurent;75012;4.0;2;Voirie;48.841702, 2.411286
+Paris;;75113-09;Paris/Charles Moureu/42;42 rue Charles Moureu;75013;4.0;2;Voirie;48.828667, 2.361231
+Paris;;75113-12;Paris/Gouthière/12;12 Rue Gouthière;75013;4.0;2;Voirie;48.820307, 2.351226
+Paris;;75113-15;Paris/Sœur Rosalie/4;4 avenue de la Sœur Rosalie;75013;4.0;;Voirie;48.831975, 2.35414
+Paris;;75113-27;Paris/Jeanne D'Arc/157;157 rue Jeanne D'Arc;75013;4.0;1;Voirie;48.836597, 2.359179
+Paris;;75113-32;Paris/Chevaleret/79;79 rue du Chevaleret;75013;4.0;1;Voirie;48.829066, 2.375951
+Paris;;75114-09;Paris/Pernety/46;46 Rue Pernety;75014;4.0;;Voirie;48.834252, 2.317832
+Paris;;75114-14;Paris/Froidevaux/71;71 rue Froidevaux;75014;4.0;;Voirie;48.837018, 2.324313
+Paris;;75114-16;Paris/Alésia/33;33 rue d'Alésia;75014;4.0;2;Voirie;48.827653, 2.332932
+Paris;;75114-22;Paris/René Coty/11;11 avenue René Coty;75014;4.0;2;Voirie;48.83086, 2.333917
+Paris;;75114-26;Paris/Nicolas Taunay/7;7 rue Nicolas Taunay;75014;4.0;1;Voirie;48.823798, 2.319513
+Paris;;75114-32;Paris/Port-Royal/97;97 boulevard de Port-Royal;75014;4.0;2;Voirie;48.838146, 2.341825
+Paris;;75115-11;Paris/Cronstadt/2;2 rue de Cronstadt;75015;4.0;;Voirie;48.835237, 2.30252
+Paris;;75115-12;Paris/Émile Zola/65;65 Avenue Émile Zola;75015;4.0;;Voirie;48.84667, 2.284809
+Paris;;75115-16;Paris/Vaugirard/20;20 Boulevard de Vaugirard;75015;4.0;2;Voirie;48.841728, 2.318568
+Paris;;75115-27;Paris/Olier/15;15 rue Olier;75015;4.0;2;Voirie;48.835197, 2.2914
+Paris;;75115-30;Paris/Croix Nivert/192;192 rue de la Croix Nivert;75015;4.0;1;Voirie;48.838835, 2.289504
+Paris;;75115-32;Paris/Convention/171;171 Rue de la Convention;75015;4.0;;Voirie;48.838161, 2.294496
+Paris;;75115-38;Paris/Mademoiselle/67;67 rue Mademoiselle;75015;4.0;1;Voirie;48.843527, 2.299425
+Paris;;75115-42;Paris/Maine/4;4 Avenue du Maine;75015;4.0;2;Voirie;48.844846, 2.319911
+Paris;;75115-44;Paris/Suffren/161;161 Avenue de Suffren;75015;4.0;2;Voirie;48.845989, 2.309537
+Paris;;75115-46;Paris/Paul Barruel/44;44 rue Paul Barruel;75015;4.0;2;Voirie;48.837362, 2.305826
+Paris;1.0;75116-01;Paris/Grande Armée/13;13 avenue de la Grande Armée;75016;4.0;1;Voirie;48.874598, 2.291332
+Paris;;75116-02;Paris/Iéna/24;24 Avenue d'Iéna;75016;4.0;;Voirie;48.865351, 2.294546
+Paris;;75116-11;Paris/Pierre 1er de Serbie/33;33 Avenue Pierre 1er de Serbie;75016;4.0;1;Voirie;48.867383, 2.298862
+Paris;;75116-13;Paris/Georges Mandel/42;42 bis avenue Georges Mandel;75016;4.0;2;Voirie;48.863899, 2.280413
+Paris;;75116-17;Paris/Chernoviz/12;12 rue Chernoviz;75016;4.0;;Voirie;48.857666, 2.281563
+Paris;;75116-21;Paris/Delessert/23;23 Boulevard Delessert;75016;4.0;2;Voirie;48.858498, 2.28514
+Paris;1.0;75116-27;Paris/Rémusat/8;8 rue Rémusat;75016;4.0;1;Voirie;48.84798, 2.272084
+Paris;;75116-28;Paris/Molitor/16;16 Rue Molitor;75016;4.0;2;Voirie;48.84528, 2.264024
+Paris;;75116-32;Paris/Murat/98;98 boulevard Murat;75016;4.0;2;Voirie;48.840253, 2.259957
+Paris;;75116-34;Paris/Marceau/1;1 Avenue Marceau;75016;4.0;1;Voirie;48.865414, 2.299571
+Paris;;75116-41;Paris/Raphaël/20;20 avenue Raphaël;75016;4.0;1;Voirie;48.859301, 2.267741
+Paris;;75117-11;Paris/Navier/47;47 rue Navier;75017;4.0;2;Voirie;48.895776, 2.324074
+Paris;;75117-12;Paris/Batignolles/27;27 Rue des Batignolles;75017;4.0;1;Voirie;48.884611, 2.321274
+Paris;1.0;75117-18;Paris/Pereire/50;50 Boulevard Pereire;75017;4.0;1;Voirie;48.887639, 2.304991
+Paris;;75117-24;Paris/Courcelles/210;210 rue de Courcelles;75017;4.0;2;Voirie;48.886705, 2.295607
+Paris;;75117-37;Paris/Legendre/22;22 bis rue Legendre;75017;4.0;;Voirie;48.88388, 2.313697
+Paris;;75104-PF;Paris/Notre-Dame/Parking;1 place du parvis Notre-Dame;75004;6.0;;Parking;48.854342, 2.347729
+Paris;;75107-PB;Paris/Sèvres Babylone/Parking;1 rue Velpeau;75007;6.0;;Parking;48.851425, 2.325024
+Paris;;75114-PA;Paris/Montparnasse Gaîté/Parking;15 rue du Commandant René Mouchotte;75014;6.0;;Parking;48.838734, 2.320556
+Paris;;75115-PD;Paris/Pasteur Montparnasse/Parking;81 rue Falguière;75015;6.0;;Parking;48.839848, 2.312476
+Paris;;75115-PM;Paris/Cambronne/Parking;26 villa Croix-Nivert;75015;6.0;;Parking;48.845331, 2.300746
+Levallois-Perret;;92044-PB;Levallois-Perret/Wilson-Planchette/Parking;80 bis rue du président Wilson;92300;6.0;;Parking;48.894233, 2.288499
+Levallois-Perret;;92044-PC;Levallois-Perret/Pompidou/Parking;1 Place Georges Pompidou;92300;6.0;;Parking;48.898954, 2.28177
+Levallois-Perret;;92044-PD;Levallois-Perret/André Citroën/Parking;33 rue Ernest Cognacq;92300;6.0;;Parking;48.897044, 2.276052
+Neuilly-sur-Seine;;92051-PB;Neuilly-sur-Seine/Parmentier/parking;57 avenue du Roule;92200;6.0;;Parking;48.882577, 2.277135
+Paris;;75101-03;Paris/Jean-Jacques Rousseau/62;62 rue Jean-Jacques Rousseau;75001;4.0;;Voirie;48.864084, 2.343733
+Paris;;75101-05;Paris/Pyramides/12;12 Rue des Pyramides;75001;4.0;1;Voirie;48.864948, 2.333149
+Paris;;75102-04;Paris/Quatre septembre/10;10 rue du Quatre septembre;75002;4.0;1;Voirie;48.86934, 2.338372
+Paris;;75102-10;Paris/Étienne Marcel/36;36 Rue Étienne Marcel;75002;4.0;1;Voirie;48.865015, 2.344644
+Paris;;75102-16;Paris/Louvre/31;31 rue du Louvre;75002;4.0;;Voirie;48.866101, 2.343353
+Paris;;75103-02;Paris/Saint Martin/243;243 rue Saint Martin;75003;4.0;2;Voirie;48.865724, 2.353238
+Paris;;75104-10;Paris/Béthune/36;36 quai de Béthune;75004;4.0;1;Voirie;48.851089, 2.35625
+Paris;;75105-10;Paris/Écoles/19;19 rue des Écoles;75005;4.0;1;Voirie;48.847981, 2.350688
+Paris;;75105-12;Paris/Monge/58;58 Rue Monge;75005;4.0;1;Voirie;48.844369, 2.352236
+Paris;;75105-13;Paris/Lacépède/38;38 Rue Lacépède;75005;4.0;;Voirie;48.844202, 2.35078
+Paris;;75105-16;Paris/Saint-Jacques/221;221 rue Saint-Jacques;75005;4.0;;Voirie;48.844176, 2.342026
+Paris;;75105-20;Paris/Monge/99;99 Rue Monge;75005;4.0;1;Voirie;48.841024, 2.352043
+Boulogne-Billancourt;1.0;92012-13;Boulogne-Billancourt/Gallieni/114;114 rue Gallieni;92100;6.0;;Voirie;48.836777, 2.23939
+Boulogne-Billancourt;;92012-34;Boulogne-Billancourt/Meudon/40;40 rue de Meudon;92100;6.0;;Voirie;48.828103, 2.242185
+Châtillon;;92020-04;Châtillon/Paris/21;21 avenue de Paris;92320;6.0;;Voirie;48.804897, 2.289826
+Châtillon;;92020-08;Châtillon/Verdun/76;76 avenue de Verdun;92320;6.0;;Voirie;48.800051, 2.282007
+Chaville;;92022-04;Chaville/Roger Salengro/705;705 Avenue Roger Salengro;92370;6.0;;Voirie;48.814694, 2.19341
+Clamart;;92023-01;Clamart/Victor Hugo/40;40 Avenue Victor Hugo;92140;7.0;;Voirie;48.804171, 2.267385
+Colombes;;92025-14;Colombes/Charles de Gaulle/156;156 Boulevard Charles de Gaulle;92700;6.0;;Voirie;48.915459, 2.228102
+Colombes;;92025-16;Colombes/Victor Hugo/42;42 Rue Victor Hugo;92700;6.0;;Voirie;48.920927, 2.263615
+Colombes;;92025-17;Colombes/Valmy/160;160 Boulevard de Valmy;92700;7.0;;Voirie;48.936064, 2.257222
+Colombes;;92025-18;Colombes/Parc Lagravère/1;1 allée Parc Lagravère;92700;7.0;;Voirie;48.927415, 2.233372
+Courbevoie;1.0;92026-15;Courbevoie/Hérold/6;6 Place Hérold;92400;5.0;1;Voirie;48.896866, 2.255888
+Fontenay-aux-Roses;1.0;92032-01;Fontenay-aux-Roses/Jean Jaurès/3;3 rue Jean Jaurès;92260;4.0;;Voirie;48.790724, 2.287241
+La Garenne-Colombes;;92035-04;La Garenne-Colombes/Colombes/126;126 rue de Colombes;92250;7.0;;Voirie;48.907734, 2.247258
+La Garenne-Colombes;;92035-06;La Garenne-Colombes/Verdun/41;41 avenue de Verdun;92250;6.0;;Voirie;48.903954, 2.231273
+Gennevilliers;1.0;92036-07;Gennevilliers/Gabriel Péri/169;169 avenue Gabriel Péri;92230;6.0;;Voirie;48.924238, 2.294301
+Gennevilliers;;92036-11;Gennevilliers/Grésillons/215;215 Avenue des Grésillons;92230;6.0;;Voirie;48.915929, 2.303885
+Issy-les-Moulineaux;1.0;92040-03;Issy-les-Moulineaux/Leclerc/46;46 Rue du Général Leclerc;92130;6.0;;Voirie;48.825319, 2.276199
+Issy-les-Moulineaux;;92040-08;Issy-les-Moulineaux/Îles/21;21 Boulevard des Îles;92130;6.0;;Voirie;48.827775, 2.271324
+Issy-les-Moulineaux;;92040-14;Issy-les-Moulineaux/Joseph Frantz/46;46 Rue Joseph Frantz;92130;6.0;;Voirie;
+Issy-les-Moulineaux;;92040-16;Issy-les-Moulineaux/René Jacques/1;1 Rue René Jacques;92130;4.0;1;Voirie;48.82375, 2.261799
+Malakoff;;92046-01;Malakoff/Wilson/2;2 avenue du Président Wilson;92240;6.0;;Voirie;48.820516, 2.301902
+Nanterre;;92050-01;Nanterre/Pesaro/2;2 boulevard Pesaro;92000;7.0;;Voirie;48.894511, 2.224918
+Nanterre;;92050-10;Nanterre/8 mai 1945/109;109 Rue du 8 mai 1945;92000;6.0;;Voirie;48.892624, 2.206274
+Nanterre;1.0;92050-13;Nanterre/Champs Pierreux/29;29 avenue des Champs Pierreux;92000;4.0;;Voirie;48.888802, 2.213936
+Nanterre;;92050-14;Nanterre/Ecoles/5;5 rue des Ecoles;92000;6.0;;Voirie;48.886795, 2.21857
+Nanterre;;92050-20;Nanterre/Jules Quentin/33;33 Avenue Jules Quentin;92000;6.0;;Voirie;48.897305, 2.186604
+Nanterre;;92050-21;Nanterre/Hoche/1;1 avenue Hoche;92000;7.0;;Voirie;48.902583, 2.196285
+Nanterre;;92050-22;Nanterre/Lavoisier/14;14 rue Lavoisier;92000;7.0;;Voirie;48.896467, 2.17543
+Plessis-Robinson;;92060-01;Plessis-Robinson/Charles-de-Gaulle/6;6 avenue Charles-de-Gaulle;92350;6.0;;Voirie;48.782458, 2.264467
+Plessis-Robinson;;92060-03;Plessis-Robinson/Aristide Briand/51;51 avenue Aristide Briand;92350;6.0;;Voirie;48.779726, 2.260437
+Rueil-Malmaison;;92063-02;Rueil-Malmaison/Albert 1er/98;98 avenue Albert 1er;92500;6.0;;Voirie;48.885302, 2.172457
+Rueil-Malmaison;;92063-06;Rueil-Malmaison/Bois Préau/1;1 avenue de Bois Préau;92500;6.0;;Voirie;48.876713, 2.173826
+Rueil-Malmaison;;92063-09;Rueil-Malmaison/Auguste Perret/4;4 Rue Auguste Perret;92500;4.0;;Voirie;48.889643, 2.167991
+Rueil-Malmaison;;92063-13;Rueil-Malmaison/Bons Raisins/52;52 Rue des Bons Raisins;92500;6.0;;Voirie;48.872661, 2.194992
+Rueil-Malmaison;;92063-17;Rueil-Malmaison/Henri Sainte-Claire Déville/12;12 rue Henri Sainte-Claire Déville;92500;6.0;;Voirie;48.892654, 2.172868
+Saint-Cloud;;92064-02;Saint-Cloud/Armengaud/12;12 rue Armengaud;92220;6.0;1;Voirie;48.78532, 2.309181
+Sceaux;;92071-04;Sceaux/Bagneux/52;52 Rue de Bagneux;92330;6.0;;Voirie;48.784315, 2.302909
+Suresnes;;92073-06;Suresnes/Carnot/52;52 Rue Carnot;92150;6.0;;Voirie;48.874122, 2.227323
+Suresnes;;92073-08;Suresnes/Huché/26;26 rue Huché;92150;5.0;1;Voirie;48.875997, 2.2208
+Suresnes;;92073-11;Suresnes/Charles Péguy/1;1 rue Charles Péguy;92150;6.0;;Voirie;48.867984, 2.225265
+Vanves;;92075-06;Vanves/Antoine Fratacci/34;34 Rue Antoine Fratacci;92170;6.0;;Voirie;48.820965, 2.288423
+Courbevoie;1.0;92099-02;Courbevoie/André Prothin/12;12 Avenue André Prothin;92400;5.0;;Voirie;48.891835, 2.244047
+Aulnay-sous-bois;;93005-06;Aulnay-sous-bois/Joseph Marie Jacquard/2;2 rue Joseph Marie Jacquard;93600;6.0;;Voirie;48.948715, 2.488127
+Bagnolet;;93006-02;Bagnolet/Pasteur/124;124 avenue Pasteur;93170;6.0;;Voirie;48.875991, 2.417863
+Bagnolet;;93006-05;Bagnolet/République/58;58 avenue de la République;93170;6.0;;Voirie;48.861094, 2.419083
+Le Bourget;1.0;93013-02;Le Bourget/Anizan Cavillon/10;10 Rue Anizan Cavillon;93350;6.0;;Voirie;48.935073, 2.424885
+Le Bourget;;93013-04;Le Bourget/Élise Deroche/10;10 avenue Élise Deroche;93350;6.0;;Voirie;48.93242, 2.426789
+Clichy-sous-Bois;1.0;93014-01;Clichy-sous-Bois/11 Novembre 1918/1;1 place du 11 Novembre 1918;93390;5.0;1;Voirie;48.910956, 2.546273
+Drancy;;93029-04;Drancy/Latéral/20;20 Chemin Latéral;93700;5.0;1;Voirie;48.932905, 2.451247
+Drancy;;93029-05;Drancy/Marcelin Berthelot/2;2 Rue Marcelin Berthelot;93700;6.0;;Voirie;48.921432, 2.445732
+Drancy;;93029-08;Drancy/Jean Jaurès/105;105 Avenue Jean Jaurès;93700;6.0;;Voirie;48.919825, 2.453419
+Drancy;;93029-10;Drancy/Auguste Blanqui/22;22 Rue Auguste Blanqui;93700;6.0;;Voirie;48.920788, 2.455932
+Drancy;;93029-11;Drancy/Henri Barbusse/236;236 Avenue Henri Barbusse;93700;4.0;;Voirie;48.923226, 2.459039
+Drancy;;93029-12;Drancy/Roger Salengro/97;97 Rue Roger Salengro;93700;6.0;;Voirie;48.916597, 2.436277
+Les Lilas;1.0;93045-01;Les Lilas/Georges Pompidou/3;3 Rue Georges Pompidou;93260;5.0;1;Voirie;48.879034, 2.415621
+Montreuil;;93048-07;Montreuil/République/2;2 rue de la République;93100;6.0;1;Voirie;48.853255, 2.423504
+Montreuil;;93048-09;Montreuil/Sergent Godefroy/20;20 bis rue du Sergent Godefroy;93100;6.0;;Voirie;48.85416, 2.431414
+Neuilly-Plaisance;1.0;93049-02;Neuilly-Plaisance/Paul Cézanne/2;2 rue Paul Cézanne;93360;5.0;1;Voirie;48.851464, 2.514094
+Noisy-le-Sec;;93053-05;Noisy-le-Sec/Henry Espaullard/1;1 rue Henry Espaullard;93130;6.0;;Voirie;48.90103, 2.468473
+Pantin;1.0;93055-03;Pantin/Pré Saint Gervais/1;1 rue du Pré Saint Gervais;93500;6.0;;Voirie;48.891172, 2.402709
+Pantin;;93055-12;Pantin/Cimetière Parisien/34;34 avenue du Cimetière Parisien;93500;6.0;;Voirie;48.909235, 2.398778
+Le Pré-Saint-Gervais;;93061-01;Le Pré-Saint-Gervais/André Joineau/79;79 rue André Joineau;93310;6.0;1;Voirie;48.883295, 2.403432
+Rosny-sous-Bois;1.0;93064-01;Rosny-sous-Bois/Claude Pernès/1;1 rue Claude Pernès;93110;5.0;;Voirie;48.870765, 2.491832
+Rosny-sous-Bois;;93064-06;Rosny-sous-Bois/Variot/40;40 Rue du docteur Variot;93110;6.0;;Voirie;48.879532, 2.493039
+Saint-Ouen;;93070-02;Saint-Ouen/Dulcie September/3;3 Rue Dulcie September;93400;6.0;;Voirie;48.905458, 2.320477
+Saint-Ouen;1.0;93070-07;Saint-Ouen/Paul Lafargue/13;13 Rue Paul Lafargue;93400;6.0;;Voirie;48.913861, 2.324702
+Saint-Ouen;;93070-10;Saint-Ouen/Entrepôts/2;2 Rue des Entrepôts;93400;5.0;;Voirie;48.903448, 2.346961
+Alfortville;;94002-03;Alfortville/Jean-Baptiste Preux/17;17 allée Jean-Baptiste Preux;94140;6.0;;Voirie;48.778812, 2.424509
+Alfortville;;94002-04;Alfortville/Verdun/39;39 Rue de Verdun;94140;6.0;;Voirie;
+Alfortville;;94002-06;Alfortville/Blanqui/61;61 quai Blanqui;94140;6.0;;Voirie;48.803992, 2.41494
+Alfortville;;94002-09;Alfortville/Joseph Franceschi/1;1bis Avenue Joseph Franceschi;94140;6.0;;Voirie;48.805457, 2.421253
+Arcueil;1.0;94003-04;Arcueil/République/39;39 Avenue de la République;94110;5.0;;Voirie;48.807256, 2.334021
+Arcueil;;94003-05;Arcueil/Marcel Vigneron/30;30 rue Marcel Vigneron;94110;6.0;;Voirie;48.801888, 2.342379
+Cachan;;94016-03;Cachan/Pont Royal/24;24 Avenue du Pont Royal;94230;6.0;;Voirie;48.792952, 2.321733
+Cachan;;94016-06;Cachan/Saussaies/36;36 Rue des Saussaies;94230;6.0;;Voirie;48.786317, 2.340426
+Créteil;1.0;94028-03;Créteil/France Libre/38;38 Avenue de la France Libre;94000;6.0;;Voirie;48.778819, 2.454971
+Créteil;;94028-04;Créteil/Claude-Nicolas Ledoux/4;4 rue Claude-Nicolas Ledoux;94000;6.0;;Voirie;48.766394, 2.469485
+Créteil;;94028-15;Créteil/Jean-Baptiste Oudry/32;32 boulevard Jean-Baptiste Oudry;94000;6.0;;Voirie;48.774689, 2.458696
+Créteil;;94028-19;Créteil/Paul Casalis/49;49 Avenue du Docteur Paul Casalis;94000;6.0;;Voirie;48.780089, 2.469159
+Créteil;;94028-20;Créteil/Magellan/27;27 rue Magellan;94000;6.0;;Voirie;48.769012, 2.457352
+Joinville-le-Pont;;94042-02;Joinville-le-Pont/Galliéni/1;1 Avenue du Général Galliéni;94340;6.0;;Voirie;48.820304, 2.475181
+Limeil-Brévannes;1.0;94044-01;Limeil-Brévannes/Louis Sallé/4;4 Rue Louis Sallé;94450;6.0;;Voirie;48.750374, 2.489556
+Limeil-Brévannes;;94044-04;Limeil-Brévannes/Emile Zola/5;5 rue Emile Zola;94450;6.0;;Voirie;48.748768, 2.478987
+Villejuif;;94076-07;Villejuif/Karl Marx/51;51 avenue Karl Marx;94800;6.0;;Voirie;48.784516, 2.359247
+Bezons;1.0;95063-01;Bezons/Edouard Vaillant/77;77 rue Edouard Vaillant;95870;6.0;;Voirie;48.926529, 2.213843
+Enghien-les-Bains;;95210-01;Enghien-les-Bains/Arrivée/19;19 Rue de l'Arrivée;95880;6.0;;Voirie;48.972622, 2.306667
+Enghien les Bains;;95210-02;Enghien-les-Bains/Coussaye/2;2 rue de la Coussaye;95880;6.0;;Voirie;48.964126, 2.305115
+Paris;;75114-27;Paris/Jourdan/26;26 Boulevard Jourdan;75014;4.0;2;Voirie;48.821249, 2.334971
+Paris;;75114-33;Paris/Ouest/6;6 rue de l'Ouest;75014;4.0;2;Voirie;48.837427, 2.322114
+Paris;;75115-02;Paris/Grenelle/37;37 quai de Grenelle;75015;4.0;2;Voirie;48.852011, 2.285913
+Paris;;75115-05;Paris/Grenelle/139;139 boulevard de Grenelle;75015;4.0;2;Voirie;48.848318, 2.301052
+Paris;;75115-06;Paris/Jean Sicard/1;1 rue Jean Sicard;75015;4.0;2;Voirie;48.828733, 2.298942
+Paris;;75115-08;Paris/Emile Zola/6;6 avenue Emile Zola;75015;4.0;;Voirie;48.84607, 2.278462
+Paris;;75115-14;Paris/Sébastien Mercier/44;44 rue Sébastien Mercier;75015;4.0;2;Voirie;48.843953, 2.279586
+Paris;;75115-20;Paris/Miollis/21;21 rue Miollis;75015;4.0;2;Voirie;48.845686, 2.303681
+Paris;1.0;75115-22;Paris/Félix Faure/109;109 avenue Félix Faure;75015;4.0;1;Voirie;48.838865, 2.282486
+Paris;;75115-23;Paris/Balard/108;108 Rue Balard;75015;4.0;2;Voirie;48.841278, 2.277793
+Paris;;75115-24;Paris/Lecourbe/336;336 Rue Lecourbe;75015;4.0;2;Voirie;48.840963, 2.297276
+Paris;;75115-26;Paris/Convention/75;75 Rue de la Convention;75015;4.0;;Voirie;48.84253, 2.284832
+Paris;;75115-33;Paris/Émile Zola/143;143 Avenue Émile Zola;75015;4.0;2;Voirie;48.847115, 2.295276
+Paris;;75115-34;Paris/Vouillé/47;47 Rue de Vouillé;75015;4.0;;Voirie;48.833957, 2.308453
+Paris;;75115-43;Paris/Pasteur/41;41 Boulevard Pasteur;75015;4.0;1;Voirie;48.842608, 2.313273
+Paris;;75115-57;Paris/Suffren/2;2 Avenue de Suffren;75015;4.0;;Voirie;48.85448, 2.295669
+Paris;1.0;75116-03;Paris/Victor Hugo/60;60 Avenue Victor Hugo;75016;4.0;1;Voirie;48.87045, 2.28686
+Paris;;75116-06;Paris/Grande Armée/81;81 avenue de la Grande Armée;75016;4.0;2;Voirie;48.875532, 2.288548
+Paris;;75116-07;Paris/Flandrin/83;83 boulevard Flandrin;75016;4.0;2;Voirie;48.869813, 2.275019
+Paris;;75116-12;Paris/Murat/1;1 Boulevard Murat;75016;4.0;1;Voirie;48.847811, 2.258944
+Paris;;75116-14;Paris/Émile Augier/20;20 Boulevard Émile Augier;75016;4.0;2;Voirie;48.860243, 2.274057
+Paris;;75116-19;Paris/Ranelagh/33;33 Rue du Ranelagh;75016;4.0;2;Voirie;48.853778, 2.276945
+Paris;;75116-26;Paris/Murat/157;157 boulevard Murat;75016;4.0;2;Voirie;48.838067, 2.26305
+Paris;;75116-31;Paris/Exelmans/77;77 Boulevard Exelmans;75016;4.0;;Voirie;48.843306, 2.259423
+Paris;;75116-38;Paris/Henri Martin/70;70 avenue Henri Martin;75116;4.0;2;Voirie;48.874595, 2.283906
+Paris;1.0;75117-06;Paris/Ternes/73;73 avenue des Ternes;75017;4.0;1;Voirie;48.879569, 2.290024
+Paris;;75117-13;Paris/Batignolles/92;92 Boulevard des Batignolles;75017;4.0;;Voirie;48.881729, 2.317583
+Paris;;75117-16;Paris/Villiers/46;46 Avenue de Villiers;75017;4.0;2;Voirie;48.883269, 2.308057
+Paris;;75117-17;Paris/Berthier/97;97 boulevard Berthier;75017;4.0;2;Voirie;48.885663, 2.294203
+Paris;;75117-28;Paris/Porte de Villiers/28;28 Avenue de la Porte de Villiers;75017;4.0;2;Voirie;48.885559, 2.284826
+Créteil;;94028-07;Créteil/Juliette Savar/102;102 Rue Juliette Savar;94000;6.0;;Voirie;48.776471, 2.466579
+Créteil;;94028-10;Créteil/De Gaulle/70;70 avenue du Général de Gaulle;94000;6.0;;Voirie;48.887576, 2.232501
+Créteil;;94028-12;Créteil/Maréchal de Lattre de Tassigny/56;56 avenue du Maréchal de Lattre de Tassigny;94000;6.0;;Voirie;48.798171, 2.454855
+Maisons-Alfort;1.0;94046-11;Maisons-Alfort/De Gaulle/42;42 avenue du Général de Gaulle;94700;6.0;;Voirie;48.813839, 2.421047
+Nogent-sur-Marne;;94052-02;Nogent-sur-Marne/Jean Monnet/1;1 rue Jean Monnet;94130;5.0;1;Voirie;48.838629, 2.493358
+Saint-Mandé;;94067-02;Saint-Mandé/Mongenot/3;3 Rue Mongenot;94160;4.0;1;Voirie;48.843398, 2.417185
+Saint-Mandé;;94067-04;Saint-Mandé/Pasteur/11;11 avenue Pasteur;94160;6.0;1;Voirie;48.844616, 2.423478
+Villejuif;;94076-02;Villejuif/René Thibert/7;7 Rue René Thibert;94800;6.0;;Voirie;48.805367, 2.362713
+Villejuif;;94076-04;Villejuif/Eugène Varlin/11;11 rue Eugène Varlin;94800;6.0;;Voirie;48.793882, 2.363214
+Villejuif;;94076-06;Villejuif/René Hamon/30;30 Rue René Hamon;94800;6.0;;Voirie;48.790614, 2.361316
+Villejuif;;94076-10;Villejuif/Jean Jaurès/153;153 Rue Jean Jaurès;94800;6.0;;Voirie;48.789178, 2.367001
+Bezons;;95063-02;Bezons/Jean Jaurès/81;81 rue Jean Jaurès;95870;6.0;;Voirie;48.923807, 2.220539
+Paris;;75117-44;Paris/Saint-Ouen/19;19 avenue de Saint-Ouen;75017;4.0;;Voirie;48.888742, 2.325823
+Paris;;75118-02;Paris/Ravignan/1;1bis rue Ravignan;75018;4.0;2;Voirie;48.8853, 2.337599
+Paris;;75118-04;Paris/Poteau/40;40 rue du Poteau;75018;4.0;1;Voirie;48.894527, 2.341264
+Paris;;75118-05;Paris/Clichy/70;70 Boulevard de Clichy;75018;4.0;1;Voirie;48.883627, 2.333899
+Paris;;75118-08;Paris/Fernand Labori/1;1 rue Fernand Labori;75018;4.0;2;Voirie;48.898194, 2.342285
+Paris;;75118-10;Paris/Marcadet/150;150 rue Marcadet;75018;4.0;2;Voirie;48.891455, 2.338445
+Paris;;75118-11;Paris/Championnet/162;162 rue Championnet;75018;4.0;2;Voirie;48.895048, 2.340169
+Paris;;75118-12;Paris/Polonceau/19;19 Rue Polonceau;75018;4.0;;Voirie;48.885591, 2.35317
+Paris;;75118-16;Paris/Ramey/62;62 Rue Ramey;75018;4.0;2;Voirie;48.891633, 2.344904
+Paris;;75118-21;Paris/Marcadet/220;220 rue Marcadet;75018;4.0;2;Voirie;48.892002, 2.333103
+Paris;;75118-38;Paris/Jean Cocteau/2;2 rue Jean Cocteau;75018;4.0;2;Voirie;48.899678, 2.351781
+Paris;;75118-43;Paris/Henry Brisson/5;5 Rue Henry Brisson;75018;4.0;1;Voirie;48.898194, 2.334944
+Paris;;75118-44;Paris/Charles Hermite/52;52 rue Charles Hermite;75018;4.0;2;Voirie;48.899086, 2.364957
+Paris;;75119-11;Paris/Manin/69;69 Rue Manin;75019;4.0;;Voirie;48.882118, 2.381366
+Paris;;75119-19;Paris/Simon Bolivar/96;96 Avenue Simon Bolivar;75019;4.0;2;Voirie;48.877593, 2.374204
+Paris;;75119-22;Paris/Botzaris/76;76 rue Botzaris;75019;4.0;;Voirie;48.879447, 2.388652
+Paris;1.0;75119-23;Paris/Sérurier/54;54 Boulevard Sérurier;75019;4.0;1;Voirie;48.880342, 2.39854
+Paris;;75119-26;Paris/Sept Arpents/9;9 Rue des Sept Arpents;75019;4.0;2;Voirie;48.889471, 2.398092
+Paris;;75119-28;Paris/Porte d'Aubervilliers/10;10 avenue de la Porte d'Aubervilliers;75019;4.0;2;Voirie;48.899404, 2.372244
+Paris;;75119-29;Paris/Flandre/6;6 avenue de Flandre;75019;4.0;2;Voirie;48.884629, 2.369749
+Paris;1.0;75120-02;Paris/Pyrénées/330;330 rue des Pyrénées;75020;4.0;1;Voirie;48.873229, 2.390415
+Paris;;75120-03;Paris/Télégraphe/16;16 rue du Télégraphe;75020;4.0;1;Voirie;48.872259, 2.39967
+Paris;;75120-13;Paris/Julien Lacroix/39;39 rue Julien Lacroix;75020;4.0;2;Voirie;48.870762, 2.383959
+Paris;;75120-19;Paris/Lagny/117;117 rue de Lagny;75020;4.0;2;Voirie;48.848954, 2.406047
+Paris;;75120-20;Paris/Orteaux/92;92 Rue des Orteaux;75020;4.0;;Voirie;48.855791, 2.40788
+Paris;;75120-24;Paris/Plaine/25;25 rue de la Plaine;75020;4.0;2;Voirie;48.850005, 2.4021
+Paris;;75120-26;Paris/Capitaine Ferber/5;5 bis Rue du Capitaine Ferber;75020;4.0;2;Voirie;48.865343, 2.405129
+Paris;;75120-28;Paris/Gambetta/65;65 Avenue Gambetta;75020;4.0;1;Voirie;48.865085, 2.396311
+Paris;;75120-30;Paris/Frédérick Lemaître/5;5 rue Frédérick Lemaître;75020;4.0;2;Voirie;48.873673, 2.391232
+Paris;;75120-45;Paris/Belleville/22;22 Boulevard de Belleville;75020;4.0;;Voirie;48.868017, 2.382605
+Yerres;;91691-01;Yerres/Raymond Poincarré/200;200 rue Raymond Poincarré;91330;6.0;1;Voirie;48.714521, 2.501359
+Antony;;92002-04;Antony/Alexis de Tocqueville/4;4 rue Alexis de Tocqueville;92160;6.0;1;Voirie;48.732964, 2.314072
+Asnières-sur-Seine;;92004-01;Asnières-sur-Seine/Sadi Carnot/10;10 Rue Sadi Carnot;92600;6.0;;Voirie;48.910036, 2.289654
+Asnières-sur-Seine;;92004-03;Asnières-sur-Seine/Normandie/22;22 rue de Normandie;92600;7.0;;Voirie;48.909036, 2.273915
+Asnières-sur-Seine;;92004-04;Asnières-sur-Seine/Marne/44;44 avenue de la Marne;92600;5.0;;Voirie;48.906954, 2.278039
+Bagneux;;92007-05;Bagneux/Schweitzer/1;1 rue du Docteur Schweitzer;92220;6.0;;Voirie;48.791921, 2.312504
+Bagneux;;92007-10;Bagneux/Albert Petit/89;89 Avenue Albert Petit;92220;6.0;;Voirie;48.79559, 2.313632
+Bois-Colombes;;92009-01;Bois-Colombes/Leclerc/45;45 rue du Général Leclerc;92270;5.0;;Voirie;48.915366, 2.269486
+Boulogne-Billancourt;;92012-11;Boulogne-Billancourt/Jean Jaurès/61;61 Boulevard Jean Jaurès;92100;6.0;;Voirie;48.839769, 2.240068
+Boulogne-Billancourt;;92012-17;Boulogne-Billancourt/Marcel Bontemps/30;30 rue Marcel Bontemps;92100;6.0;;Voirie;48.826117, 2.240712
+Boulogne-Billancourt;;92012-18;Boulogne-Billancourt/Sèvres/80;80 rue de Sèvres;92100;6.0;;Voirie;48.840568, 2.242578
+Boulogne-Billancourt;;92012-30;Boulogne-Billancourt/Reine/12;12 bis Route de la Reine;92100;6.0;;Voirie;48.838931, 2.25012
+Châtenay-Malabry;;92019-02;Châtenay-Malabry/Sully Prudhomme/33;33 Avenue Sully Prudhomme;92290;6.0;;Voirie;48.765902, 2.289754
+Châtenay-Malabry;;92019-05;Châtenay-Malabry/Roger Salengro/143;143 avenue Roger Salengro;92290;6.0;;Voirie;48.765589, 2.272353
+Châtillon;;92020-03;Châtillon/Vanves/98;98 Boulevard de Vanves;92320;6.0;;Voirie;48.806673, 2.285814
+Chaville;;92022-03;Chaville/Pavé des Gardes/33;33 route du Pavé des Gardes;92370;6.0;;Voirie;48.805601, 2.185381
+Clamart;;92023-02;Clamart/Jean Jaurès/137;137 avenue Jean Jaurès;92140;5.0;;Voirie;48.808012, 2.26803
+Clamart;;92023-09;Clamart/De Gaulle/233;233 avenue Général De Gaulle;92140;6.0;;Voirie;48.786928, 2.255515
+Clamart;;92023-11;Clamart/République/2;2 avenue de la République;92140;6.0;;Voirie;48.781677, 2.236374
+Clamart;;92023-13;Clamart/Bourcillière/137;137 rue de la Bourcillière;92140;6.0;;Voirie;48.780475, 2.233548
+Garches;;92033-02;Garches/Buzenval/111;111 rue Buzenval;92280;6.0;;Voirie;
+Gennevilliers;;92036-02;Gennevilliers/Recoudés/1;1 allée des recoudés;92230;6.0;;Voirie;
+Gennevilliers;;92036-05;Gennevilliers/Camélinat/66;66 Boulevard Camélinat;92230;6.0;;Voirie;48.929497, 2.299704
+Gennevilliers;1.0;92036-10;Gennevilliers/Georges Corete/1;1 Rue Georges Corete;92230;6.0;;Voirie;48.919144, 2.305471
+Issy-les-Moulineaux;;92040-13;Issy-les-Moulineaux/Ernest Renan/9;9 rue Ernest Renan;92130;6.0;;Voirie;48.829359, 2.283437
+Issy-les-Moulineaux;;92040-17;Issy-les-Moulineaux/Bara/28;28 Rue Bara;92130;6.0;;Voirie;48.832753, 2.268084
+Malakoff;;92046-03;Malakoff/Stalingrad/27;27 boulevard de Stalingrad;92240;7.0;;Voirie;48.81384, 2.288644
+Malakoff;1.0;92046-04;Malakoff/Charles de Gaulle/47;47 Boulevard Charles de Gaulle;92240;6.0;;Voirie;48.82247, 2.298777
+Rungis;;94065-01;Rungis/Lard/22;22 Voie au Lard;94150;6.0;1;Voirie;48.750775, 2.347836
+Saint-Maurice;;94069-01;Saint-Maurice/Verdun/16;16 Bis Avenue de Verdun;94410;6.0;;Voirie;48.822106, 2.422166
+Villejuif;;94076-11;Villejuif/Auguste Perret/11;11 Rue Auguste Perret;94800;6.0;;Voirie;48.788064, 2.35127
+Argenteuil;;95018-01;Argenteuil/Henri Barbusse/215;215 rue Henri Barbusse;95100;6.0;;Voirie;48.931373, 2.229731
+Argenteuil;;95018-03;Argenteuil/Poste Prolongée/1;1 rue de la Poste Prolongée;95100;6.0;;Voirie;48.945835, 2.250525
+Argenteuil;;95018-04;Argenteuil/Bicheret/4;4 rue Bicheret;95100;6.0;;Voirie;48.946514, 2.256068
+Paris;;75101-PD;Paris/Pyramides/Parking;15 rue des Pyramides;75001;6.0;;Parking;48.86524, 2.333034
+Paris;;75112-PC;Paris/Picpus Nation/Parking;65 boulevard de Picpus;75012;6.0;;Parking;48.846461, 2.399902
+Paris;;75113-PL;Paris/Vincent Auriol/Parking;21 Rue Abel Gance;75013;6.0;;Parking;48.835296, 2.373234
+Paris;;75115-PA;Paris/Grenelle 1/Parking;31 boulevard de Grenelle;75015;6.0;;Parking;48.852587, 2.29103
+Paris;;75115-PI;Paris/Lecourbe Mairie du XVème/Parking;141 rue Lecourbe;75015;6.0;;Parking;48.841654, 2.300075
+Paris;;75115-PK;Paris/Citroën Cévennes/Parking;37 rue Leblanc;75015;6.0;;Parking;48.839474, 2.275264
+Levallois-Perret;;92044-PI;Levallois-Perret/Wilson-Barbusse/Parking;37 rue du Président Wilson;92300;6.0;;Parking;48.891437, 2.29084
+Levallois-Perret;;92044-PK;Levallois-Perret/So'Ouest/Parking;29 rue d'Alsace;92300;6.0;;Parking;48.891672, 2.296027
+Rungis;;94065-PA;Rungis/Sogaris/Parking;1 place de la Logistique;94150;6.0;;Parking;48.751166, 2.36112
+Paris;;75101-09;Paris/Victoria/17;17 Avenue Victoria;75001;4.0;1;Voirie;48.85798, 2.346671
+Paris;1.0;75101-13;Paris/Halles/3;3 Rue des Halles;75001;4.0;;Voirie;48.859785, 2.346716
+Paris;;75102-07;Paris/Bonne Nouvelle/21;21 boulevard Bonne Nouvelle;75002;4.0;;Voirie;48.870097, 2.34993
+Paris;;75102-11;Paris/Paix/24;24 rue de la Paix;75002;4.0;1;Voirie;48.870191, 2.332238
+Paris;1.0;75103-11;Paris/Bretagne/51;51 Rue de Bretagne;75003;4.0;1;Voirie;48.863545, 2.361103
+Paris;;75103-13;Paris/Saint-Martin/17;17 boulevard Saint-Martin;75003;4.0;;Voirie;48.868132, 2.360069
+Paris;;75103-15;Paris/Beaumarchais/87;87 boulevard Beaumarchais;75003;4.0;1;Voirie;48.858966, 2.367474
+Paris;;75103-16;Paris/Turenne/98;98 rue de Turenne;75003;4.0;1;Voirie;48.862363, 2.364743
+Paris;;75104-01;Paris/François Miron/80;80 rue François Miron;75004;4.0;1;Voirie;48.855346, 2.35911
+Paris;;75104-02;Paris/Fleurs/23;23 Quai aux Fleurs;75004;4.0;2;Voirie;48.854877, 2.350438
+Paris;;75104-06;Paris/Malher/13;13 rue Malher;75004;4.0;;Voirie;48.856378, 2.361255
+Paris;1.0;75104-11;Paris/Bourdon/41;41 Boulevard Bourdon;75004;4.0;;Voirie;48.852494, 2.367796
+Paris;;75104-13;Paris/Marché Neuf/8;8 Quai du Marché Neuf;75004;4.0;2;Voirie;48.854352, 2.34506
+Paris;;75105-01;Paris/Geoffroy-Saint-Hilaire/27;27 rue Geoffroy-Saint-Hilaire;75005;4.0;2;Voirie;48.840524, 2.356124
+Paris;;75106-04;Paris/Bérite/3;3 rue de Bérite;75006;4.0;;Voirie;48.847879, 2.324063
+Paris;;75106-07;Paris/Rennes/105;105 Rue de Rennes;75006;4.0;;Voirie;48.848715, 2.328683
+Paris;;75106-08;Paris/Notre-Dame des Champs/39;39 Rue Notre-Dame des Champs;75006;4.0;;Voirie;48.844932, 2.329207
+Paris;;75106-11;Paris/Michelet/6;6 rue Michelet;75006;4.0;2;Voirie;48.842485, 2.336243
+Paris;;75106-13;Paris/Fleurus/2;2 rue de Fleurus;75006;4.0;2;Voirie;48.847105, 2.33216
+Paris;;75106-19;Paris/Vaugirard/3;3 rue de Vaugirard;75006;4.0;1;Voirie;48.84883, 2.340704
+Paris;;75107-07;Paris/Grenelle/152;152 Rue de Grenelle;75007;4.0;2;Voirie;48.858101, 2.310158
+Paris;;75107-13;Paris/Raspail/9;9 Boulevard Raspail;75007;4.0;2;Voirie;48.855046, 2.326036
+Paris;;75107-22;Paris/Saint-Germain/188;188 boulevard Saint-Germain;75007;4.0;1;Voirie;48.854646, 2.330355
+Paris;;75108-04;Paris/Francois 1er/7;7 Rue Francois 1er;75008;4.0;2;Voirie;48.865843, 2.308222
+Paris;;75108-10;Paris/Dutuit/1;1 avenue Dutuit;75008;4.0;2;Voirie;48.866778, 2.31576
+Paris;;75108-11;Paris/Berri/10;10 rue de Berri;75008;4.0;1;Voirie;48.873162, 2.30549
+Paris;;75108-18;Paris/Courcelles/69;69 Rue de Courcelles;75008;4.0;2;Voirie;48.878132, 2.304998
+Paris;;75108-19;Paris/Monceau/43;43 Rue de Monceau;75008;4.0;2;Voirie;48.877876, 2.310823
+Paris;;75108-21;Paris/Pierre Charron/62;62 rue Pierre Charron;75008;4.0;;Voirie;48.869563, 2.303652
+Paris;;75108-24;Paris/Friedland/42;42 avenue de Friedland;75008;4.0;;Voirie;48.874211, 2.297694
+Paris;;75108-31;Paris/Rome/46;46 rue de Rome;75008;4.0;1;Voirie;48.878422, 2.322582
+Paris;;75109-06;Paris/Provence/35;35 Rue de Provence;75009;4.0;;Voirie;48.874107, 2.338186
+Paris;;75109-07;Paris/Jules Lefèbvre/1;1 rue Jules Lefèbvre;75009;4.0;2;Voirie;48.880436, 2.328475
+Paris;;75109-08;Paris/Londres/6;6 rue de Londres;75009;4.0;;Voirie;48.87688, 2.330191
+Paris;;75109-26;Paris/Milton/12;12 rue Milton;75009;4.0;2;Voirie;48.877641, 2.340853
+Paris;;75110-06;Paris/Villette/55;55 boulevard de la Villette;75010;4.0;1;Voirie;48.875916, 2.372371
+Paris;;75110-07;Paris/Faubourg-Saint-Martin/168;168 Rue du Faubourg-Saint-Martin;75010;4.0;2;Voirie;48.877204, 2.361469
+Paris;;75110-12;Paris/Château Landon/24;24 rue du Château Landon;75010;4.0;1;Voirie;48.881547, 2.363001
+Paris;;75110-34;Paris/Buisson Saint Louis/2;2 Rue du Buisson Saint Louis;75010;4.0;1;Voirie;48.871798, 2.372097
+Paris;;75111-05;Paris/Voltaire/8;8 Boulevard Voltaire;75011;4.0;;Voirie;48.865776, 2.366407
+Paris;;75111-08;Paris/Roquette/162;162 rue de la Roquette;75011;4.0;2;Voirie;48.858611, 2.384139
+Paris;;75111-11;Paris/Léon Frot/1;1 rue Léon Frot;75011;4.0;;Voirie;48.853332, 2.388146
+Paris;;75111-15;Paris/République/36;36 avenue de la République;75011;4.0;;Voirie;48.865587, 2.372046
+Paris;;75111-17;Paris/République/128;128 avenue de la République;75011;4.0;2;Voirie;48.862922, 2.386102
+Paris;;75111-19;Paris/Saint-Maur/157;157 rue Saint-Maur;75011;4.0;;Voirie;48.868735, 2.374571
+Paris;;75111-21;Paris/Roubo/1;1 rue Roubo;75011;4.0;2;Voirie;48.849822, 2.387278
+Paris;;75111-23;Paris/Philippe Auguste/65;65 avenue Philippe Auguste;75011;4.0;1;Voirie;48.853649, 2.392411
+Paris;;75112-05;Paris/Charles Bossut/4;4 Rue Charles Bossut;75012;4.0;1;Voirie;48.842995, 2.383393
+Paris;;75112-11;Paris/Charenton/97;97 Rue de Charenton;75012;4.0;2;Voirie;48.847655, 2.37731
+Paris;;75112-13;Paris/Rapée/46;46 quai de la Rapée;75012;4.0;2;Voirie;48.842127, 2.372494
+Paris;;75112-25;Paris/Reuilly/116;116 rue de Reuilly;75012;4.0;1;Voirie;48.84027, 2.394561
+Paris;;75112-29;Paris/Claude Decaen/26;26 rue Claude Decaen;75012;4.0;2;Voirie;48.835214, 2.400456
+Paris;;75112-31;Paris/Charenton/251;251 rue de Charenton;75012;4.0;1;Voirie;48.836372, 2.392079
+Paris;;75113-05;Paris/Auguste Blanqui/120;120 boulevard Auguste Blanqui;75013;4.0;2;Voirie;48.831027, 2.344446
+Paris;;75113-07;Paris/Croulebarbe/1;1 rue Croulebarbe;75013;4.0;2;Voirie;48.832261, 2.350315
+Paris;;75113-08;Paris/Tolbiac/245;245 rue de Tolbiac;75013;4.0;2;Voirie;48.826253, 2.342384
+Paris;;75113-19;Paris/Choisy/8;8 avenue de Choisy;75013;4.0;;Voirie;48.820711, 2.364443
+Paris;;75113-20;Paris/Ivry/3;3 avenue d'Ivry;75013;4.0;2;Voirie;48.824335, 2.363639
+Paris;;75113-23;Paris/Eugène Oudiné/51;51 Rue Eugène Oudiné;75013;4.0;2;Voirie;48.825012, 2.37271
+Paris;1.0;75113-25;Paris/Vincent Auriol/143;143 boulevard Vincent Auriol;75013;4.0;1;Voirie;48.833951, 2.364968
+Paris;;75113-26;Paris/Hôpital/157;157 Boulevard de L'Hôpital;75013;4.0;2;Voirie;48.836234, 2.359067
+Paris;;75113-34;Paris/Françoise Dolto/1;1 rue Françoise Dolto;75013;4.0;1;Voirie;48.82941, 2.382848
+Paris;;75113-38;Paris/Darmesteter/12;12 rue Darmesteter;75013;4.0;2;Voirie;48.823154, 2.375367
+Paris;;75114-10;Paris/Raymond Losserand/145;145 Rue Raymond Losserand;75014;4.0;2;Voirie;48.831219, 2.312994
+Paris;;75114-11;Paris/Départ/23;23 rue du Départ;75014;4.0;2;Voirie;48.842193, 2.323155
+Paris;;75114-12;Paris/Broussais/32;32 rue Broussais;75014;4.0;2;Voirie;48.829263, 2.336618
+Paris;;75114-17;Paris/Leclerc/101;101 Avenue du Général Leclerc;75014;4.0;2;Voirie;48.825791, 2.326565
+Paris;;75114-19;Paris/Raymond Losserand/229;229 Rue Raymond Losserand;75014;4.0;2;Voirie;48.827874, 2.305845
+Paris;1.0;75114-25;Paris/Catalogne/2;2 Place de Catalogne;75014;4.0;1;Voirie;48.836814, 2.318727
+Paris;;75115-01;Paris/Fédération/10;10 rue de la Fédération;75015;4.0;2;Voirie;48.854723, 2.290392
+Paris;;75115-04;Paris/Suffren/78;78 avenue de Suffren;75015;4.0;1;Voirie;48.851708, 2.299772
+Paris;;75115-09;Paris/Héricart/54;54 rue Héricart;75015;4.0;;Voirie;48.848999, 2.286851
+Paris;1.0;75115-17;Paris/Etienne Pernet/26;26 Place Etienne Pernet;75015;4.0;2;Voirie;48.842723, 2.292032
+Paris;;75115-36;Paris/Mademoiselle/22;22 Rue Mademoiselle;75015;4.0;3;Voirie;48.843443, 2.298122
+Paris;1.0;75115-48;Paris/Balard/18;18 Rue Balard;75015;4.0;1;Voirie;48.84443, 2.277043
+Paris;;75115-53;Paris/Lecourbe/63;63 rue Lecourbe;75015;4.0;2;Voirie;48.843539, 2.306167
+Paris;;75115-58;Paris/Cotentin/29;29 rue du Cotentin;75015;4.0;2;Voirie;48.838494, 2.312736
+Paris;;75115-61;Paris/Beaugrenelle/4;4 rue Beaugrenelle;75015;4.0;2;Voirie;48.847863, 2.284732
+Paris;;75116-16;Paris/Malakoff/115;115 avenue de Malakoff;75016;4.0;2;Voirie;48.874962, 2.283934
+Paris;;75116-22;Paris/Georges Mandel/1;1 avenue Georges Mandel;75016;4.0;2;Voirie;48.863629, 2.281367
+Paris;;75116-29;Paris/Mozart/101;101 Avenue Mozart;75016;4.0;;Voirie;48.851569, 2.267828
+Paris;;75116-40;Paris/Square Tolstoï/2;2 square Tolstoï;75016;4.0;2;Voirie;48.851907, 2.260336
+Paris;;75116-42;Paris/Théophile Gauthier/14;14 avenue Théophile Gauthier;75016;4.0;2;Voirie;48.850735, 2.273921
+Paris;;75116-43;Paris/Marceau/59;59 avenue Marceau;75016;4.0;1;Voirie;48.869946, 2.297789
+Paris;;75116-44;Paris/Paul Doumer/72;72 Avenue Paul Doumer;75016;4.0;2;Voirie;48.85973, 2.278826
+Romainville;;93063-02;Romainville/Commune de Paris/100;100 rue de la Commune de Paris;93230;6.0;;Voirie;48.896787, 2.432474
+Romainville;1.0;93063-03;Romainville/Pierre Kerautret/40;40 avenue Pierre Kerautret;93230;6.0;;Voirie;48.882628, 2.443576
+Rosny-sous-Bois;;93064-05;Rosny-sous-Bois/Léon Blum/10;10 rue Léon Blum;93110;7.0;;Voirie;48.880395, 2.478508
+Champigny-sur-Marne;;94017-03;Champigny-sur-Marne/Pierre Renaudel/2;2 rue Pierre Renaudel;94500;6.0;;Voirie;48.813689, 2.509506
+Paris;;75104-PE;Paris/Lobau/Parking;4 Rue Lobau;75004;6.0;;Parking;48.856579, 2.353831
+Paris;;75108-PD;Paris/Concorde/Parking;2 avenue Gabriel;75008;6.0;;Parking;48.867387, 2.320354
+Paris;;75108-PH;Paris/Madeleine Tronchet/Parking;19 place de la Madeleine;75008;6.0;;Parking;48.870739, 2.32399
+Paris;;75113-PH;Paris/Quai d'Austerlitz/Parking;29 quai Austerlitz;75013;6.0;;Parking;48.839319, 2.371372
+Paris;;75115-PL;Paris/Garibaldi Cambronne/Parking;1 boulevard Garibaldi;75015;6.0;;Parking;48.84779, 2.302632
+Paris;;75117-PA;Paris/Cardinet/Parking;168 bis rue Cardinet;75017;6.0;;Parking;48.890073, 2.317183
+Paris;;75117-PM;Paris/Gouvion Maillot/Parking;26 boulevard Gouvion Saint-Cyr;75017;6.0;;Parking;48.883514, 2.287872
+Levallois-Perret;;92044-PG;Levallois-Perret/Marjolin/Parking;21 rue Pierre Brossolette;92300;6.0;;Parking;48.895448, 2.292382
+Paris;;75101-08;Paris/Croix des Petits Champs/4;4 Rue Croix des Petits Champs;75001;4.0;;Voirie;48.862458, 2.339435
+Paris;;75101-11;Paris/Colonel Driant/7;7 rue du Colonel Driant;75001;4.0;;Voirie;48.863338, 2.340493
+Paris;;75102-05;Paris/Vivienne/43;43 rue Vivienne;75002;4.0;;Voirie;48.870687, 2.340959
+Paris;;75102-09;Paris/Quatre Septembre/26;26 Rue du Quatre Septembre;75002;4.0;1;Voirie;48.870073, 2.334487
+Paris;;75102-13;Paris/Dalayrac/19;19 rue Dalayrac;75002;4.0;1;Voirie;48.868121, 2.335117
+Paris;;75102-15;Paris/Réaumur/116;116 rue Réaumur;75002;4.0;1;Voirie;48.867931, 2.34517
+Paris;;75103-04;Paris/Réaumur/38;38 Rue Réaumur;75003;4.0;2;Voirie;48.865379, 2.357442
+Paris;;75103-09;Paris/Pastourelle/27;27 rue Pastourelle;75003;4.0;2;Voirie;48.862606, 2.359769
+Paris;;75104-04;Paris/Temple/36;36 rue du Temple;75004;4.0;;Voirie;48.859633, 2.354272
+Paris;;75104-05;Paris/Sainte-Croix de la Bretonnerie/37;37 rue Sainte-Croix de la Bretonnerie;75004;4.0;;Voirie;48.858669, 2.354514
+Paris;;75104-12;Paris/Schomberg/1;1 rue de Schomberg;75004;4.0;2;Voirie;48.849011, 2.362568
+Paris;;75104-14;Paris/Nonnains d'Hyères/1;1 rue des Nonnains d'Hyères;75004;4.0;1;Voirie;48.854124, 2.358607
+Paris;;75104-15;Paris/Bourdon/9;9 boulevard Bourdon;75004;4.0;2;Voirie;48.848397, 2.365936
+Paris;;75104-16;Paris/Neuve Saint-Pierre/2;2 rue Neuve Saint-Pierre;75004;4.0;1;Voirie;48.853525, 2.364145
+Paris;;75105-03;Paris/Tournelle/21;21 Quai de la Tournelle;75005;4.0;;Voirie;48.850013, 2.354439
+Paris;;75105-08;Paris/Pierre Brossolette/1;1 rue Pierre Brossolette;75005;4.0;2;Voirie;48.841971, 2.347603
+Paris;;75105-11;Paris/Linné/18;18 rue Linné;75005;4.0;2;Voirie;48.845249, 2.354829
+Paris;;75105-15;Paris/Valette/2;2 bis rue Valette;75005;4.0;2;Voirie;48.848001, 2.346914
+Paris;;75105-17;Paris/Clovis/20;20 rue Clovis;75005;4.0;1;Voirie;48.846018, 2.349617
+Paris;;75106-02;Paris/Lobineau/9;9 rue Lobineau;75006;4.0;1;Voirie;48.851662, 2.336187
+Paris;;75106-06;Paris/Saint Placide/58;58 Rue Saint Placide;75006;4.0;1;Voirie;48.84738, 2.326286
+Paris;;75106-09;Paris/Joseph Bara/15;15 rue Joseph Bara;75006;4.0;1;Voirie;48.841664, 2.332832
+Paris;;75106-12;Paris/Raspail/136;136 boulevard Raspail;75006;4.0;2;Voirie;48.842416, 2.329234
+Paris;;75106-15;Paris/Four/38;38 rue du Four;75006;4.0;2;Voirie;48.852456, 2.331498
+Paris;;75106-17;Paris/Montfaucon/4;4 Rue de Montfaucon;75006;4.0;;Voirie;48.852672, 2.335876
+Paris;;75107-02;Paris/Bourdonnais/45;45 Avenue de la Bourdonnais;75007;4.0;1;Voirie;48.857971, 2.299902
+Paris;;75107-03;Paris/Constantine/25;25 rue Constantine;75007;4.0;2;Voirie;48.858687, 2.314824
+Paris;;75107-04;Paris/Mithouard/6;6 place du Président Mithouard;75007;4.0;2;Voirie;48.85116, 2.312986
+Paris;;75107-09;Paris/Bosquet/41;41 avenue Bosquet;75007;4.0;1;Voirie;48.858085, 2.304116
+Paris;;75107-10;Paris/Duroc/2;2 Rue Duroc;75007;4.0;2;Voirie;48.847732, 2.313366
+Paris;;75107-14;Paris/Émile Deschanel/15;15 avenue Émile Deschanel;75007;4.0;2;Voirie;48.855656, 2.302239
+Paris;;75107-18;Paris/Invalides/21;21 Boulevard des Invalides;75007;4.0;2;Voirie;48.85191, 2.314929
+Paris;;75107-24;Paris/Bellechasse/5;5 rue de Bellechasse;75007;4.0;;Voirie;48.859894, 2.324583
+Paris;;75108-01;Paris/Chateaubriand/19;19 rue de Chateaubriand;75008;4.0;2;Voirie;48.873508, 2.300834
+Paris;;75108-13;Paris/Saint-Honoré/161;161 rue du Faubourg Saint-Honoré;75008;4.0;2;Voirie;48.874554, 2.306144
+Paris;;75108-22;Paris/Courcelles/40;40 rue de Courcelles;75008;4.0;2;Voirie;48.875969, 2.308451
+Paris;;75108-26;Paris/Batignolles/9;9 Boulevard des Batignolles;75008;4.0;;Voirie;48.883087, 2.326173
+Paris;;75109-10;Paris/Rochechouart/31;31 Boulevard Rochechouart;75009;4.0;2;Voirie;48.882936, 2.345548
+Paris;;75109-16;Paris/La Fayette/7;7 rue La Fayette;75009;4.0;2;Voirie;48.873592, 2.334793
+Paris;;75109-22;Paris/Haussmann/6;6 Boulevard Haussmann;75009;4.0;1;Voirie;48.872297, 2.338982
+Paris;;75109-24;Paris/Paul Escudier/2;2 rue Paul Escudier;75009;4.0;2;Voirie;48.88052, 2.331841
+Paris;;75109-25;Paris/Montmartre/31;31 Bis Rue du Faubourg Montmartre;75009;4.0;;Voirie;48.87382, 2.342417
+Paris;;75110-03;Paris/Faubourg-Saint-Martin/203;203 Rue du Faubourg-Saint-Martin;75010;4.0;2;Voirie;48.880047, 2.363654
+Paris;;75110-10;Paris/Pierre Chausson/1;1 rue Pierre Chausson;75010;4.0;;Voirie;48.870309, 2.360051
+Paris;;75110-13;Paris/Faubourg-Saint-Martin/242;242 Rue du Faubourg-Saint-Martin;75010;4.0;1;Voirie;48.881887, 2.3662
+Paris;;75110-15;Paris/Louis Blanc/6;6 Rue Louis Blanc;75010;4.0;2;Voirie;48.878732, 2.36935
+Paris;;75110-29;Paris/Château Landon/52;52 rue de Château Landon;75010;4.0;;Voirie;48.883597, 2.364293
+Paris;;75110-33;Paris/Poissonnière/64;64 rue du Faubourg Poissonnière;75010;4.0;;Voirie;48.875644, 2.348299
+Paris;1.0;75111-02;Paris/Parmentier/2;2 avenue Parmentier;75011;4.0;1;Voirie;48.858805, 2.379981
+Paris;;75111-06;Paris/Voltaire/182;182 Boulevard Voltaire;75011;4.0;2;Voirie;48.854739, 2.385165
+Paris;;75111-10;Paris/Parmentier/125;125 bis avenue Parmentier;75011;4.0;2;Voirie;48.869112, 2.371507
+Paris;;75111-12;Paris/Voltaire/59;59 Boulevard Voltaire;75011;4.0;1;Voirie;48.861924, 2.373523
+Paris;;75111-22;Paris/Philippe Auguste/126;126 Avenue Philippe Auguste;75011;4.0;2;Voirie;48.857799, 2.390304
+Paris;;75111-30;Paris/Richard Lenoir/110;110 Boulevard Richard Lenoir;75011;4.0;2;Voirie;48.864099, 2.371411
+Paris;;75112-02;Paris/Ledru-Rollin/88;88 Avenue Ledru-Rollin;75012;4.0;2;Voirie;48.850465, 2.375429
+Paris;;75112-03;Paris/Bastille/50;50 boulevard de la Bastille;75012;4.0;1;Voirie;48.85152, 2.369286
+Paris;;75112-04;Paris/Ledru Rollin/20;20 avenue Ledru Rollin;75012;4.0;1;Voirie;48.846559, 2.369239
+Paris;;75112-07;Paris/Bastille/20;20 boulevard de la Bastille;75012;4.0;1;Voirie;48.848361, 2.367977
+Paris;;75112-10;Paris/Bercy/88;88 rue de Bercy;75012;4.0;2;Voirie;48.841011, 2.377881
+Paris;;75112-17;Paris/Henard/3;3 Rue Henard;75012;4.0;2;Voirie;48.842499, 2.389958
+Paris;;75112-26;Paris/Picpus/7;7 boulevard de Picpus;75012;4.0;2;Voirie;48.840578, 2.400356
+Paris;;75112-37;Paris/Bercy/5;5 boulevard de Bercy;75112;4.0;2;Voirie;
+Paris;;75113-04;Paris/Marie-Andrée Lagroua Weil-Halle/2;2 rue Marie-Andrée Lagroua Weil-Halle;75013;4.0;;Voirie;48.828474, 2.38024
+Paris;;75113-13;Paris/Nationale/77;77 Rue Nationale;75013;4.0;1;Voirie;48.827445, 2.366055
+Paris;;75113-16;Paris/Tolbiac/189;189 Rue de Tolbiac;75013;4.0;1;Voirie;48.82576, 2.351223
+Paris;;75113-17;Paris/Tolbiac/145;145 rue de Tolbiac;75013;4.0;2;Voirie;48.826073, 2.358175
+Paris;;75113-18;Paris/Caillaux/24;24 rue Caillaux;75013;4.0;2;Voirie;48.822576, 2.360683
+Paris;;75113-22;Paris/Tolbiac/41;41 rue de Tolbiac;75013;4.0;2;Voirie;48.827951, 2.372178
+Paris;;75113-31;Paris/Chevaleret/131;131 rue du Chevaleret;75013;4.0;2;Voirie;48.830535, 2.373573
+Paris;;75113-33;Paris/Tolbiac/15;15 bis rue de Tolbiac;75013;4.0;;Voirie;48.829227, 2.374553
+Paris;;75113-36;Paris/Choisy/188;188 Avenue de Choisy;75013;4.0;2;Voirie;48.830389, 2.356686
+Paris;;75114-01;Paris/25 Août 1944/8;8 Place du 25 Août 1944;75014;4.0;;Voirie;48.822426, 2.324835
+Paris;1.0;75114-06;Paris/Maine/78;78 Avenue du Maine;75014;4.0;2;Voirie;48.834466, 2.324167
+Paris;;75114-08;Paris/Jean Moulin/34;34 avenue Jean Moulin;75014;4.0;1;Voirie;48.826631, 2.323793
+Paris;;75114-13;Paris/Maine/185;185 avenue du Maine;75014;4.0;1;Voirie;48.830761, 2.325936
+Paris;;75114-18;Paris/Georges Lafenestre/11;11 avenue Georges Lafenestre;75014;4.0;2;Voirie;48.825201, 2.311654
+Paris;;75114-20;Paris/Reille/59;59 avenue Reille;75014;4.0;2;Voirie;48.823732, 2.332034
+Paris;;75114-23;Paris/Arago/85;85 Boulevard Arago;75014;4.0;2;Voirie;48.834596, 2.335584
+Paris;;75114-24;Paris/Arago/99;99 Boulevard Arago;75014;4.0;;Voirie;48.834269, 2.333843
+Paris;;75114-29;Paris/Porte de Montrouge/8;8 Avenue de la Porte de Montrouge;75014;4.0;2;Voirie;48.82309, 2.322802
+Paris;;75114-31;Paris/Vercingétorix/106;106 rue Vercingétorix;75014;4.0;2;Voirie;48.834334, 2.314503
+Paris;;75115-07;Paris/Gerbert/11;11 rue Gerbert;75015;4.0;1;Voirie;48.839326, 2.298645
+Paris;;75115-10;Paris/Olivier de Serres/3;3 rue Olivier de Serres;75015;4.0;2;Voirie;48.836992, 2.298538
+Paris;;75115-13;Paris/Lourmel/79;79 rue de Lourmel;75015;4.0;;Voirie;48.84501, 2.287506
+Paris;;75115-29;Paris/Dantzig/80;80 Rue de Dantzig;75015;4.0;2;Voirie;48.833044, 2.29831
+Paris;;75115-37;Paris/Lourmel/33;33 rue de Lourmel;75015;4.0;2;Voirie;48.848283, 2.290527
+Paris;;75115-47;Paris/Lacordaire/56;56 Rue Lacordaire;75015;4.0;2;Voirie;48.84126, 2.281793
+Paris;;75115-59;Paris/Morillons/95;95 rue des Morillons;75015;4.0;2;Voirie;48.831991, 2.304742
+Paris;;75106-03;Paris/Madame/18;18 rue Madame;75006;4.0;;Voirie;48.848694, 2.331699
+Paris;;75106-05;Paris/Péguy/2;2 Rue Péguy;75006;4.0;2;Voirie;48.842972, 2.328096
+Paris;;75106-20;Paris/Danton/8;8 rue Danton;75006;4.0;2;Voirie;48.852499, 2.341863
+Paris;;75106-21;Paris/Mayet/2;2 rue Mayet;75006;4.0;;Voirie;48.847296, 2.318229
+Paris;;75107-12;Paris/Bac/142;142 rue du Bac;75007;4.0;1;Voirie;48.850774, 2.323772
+Paris;;75107-17;Paris/Bac/42;42 Rue du Bac;75007;4.0;2;Voirie;48.856788, 2.326943
+Paris;;75107-21;Paris/Ségur/55;55 avenue de Ségur;75007;4.0;2;Voirie;48.849387, 2.30789
+Paris;;75108-14;Paris/Constantinople/4;4 rue de Constantinople;75008;4.0;1;Voirie;48.879584, 2.32169
+Paris;;75108-16;Paris/Hoche/31;31 avenue Hoche;75008;4.0;;Voirie;48.876049, 2.300973
+Paris;;75108-25;Paris/Saint-Augustin/9;9 place Saint-Augustin;75008;4.0;1;Voirie;48.875452, 2.318811
+Rueil-Malmaison;;92063-01;Rueil-Malmaison/Édouard Belin/8;8 avenue Édouard Belin;92500;4.0;;Voirie;48.887716, 2.169456
+Rueil-Malmaison;;92063-07;Rueil-Malmaison/Richelieu/3;3 place Richelieu;92500;6.0;;Voirie;48.873602, 2.182182
+Rueil-Malmaison;;92063-14;Rueil-Malmaison/18 Juin 1940/175;175 avenue du 18 Juin 1940;92500;6.0;;Voirie;48.864951, 2.205761
+Rueil-Malmaison;;92063-15;Rueil-Malmaison/De Montbrison/188;188 Rue du Lieutenant-Colonel de Montbrison;92500;6.0;;Voirie;48.857234, 2.193245
+Rueil-Malmaison;;92063-19;Rueil-Malmaison/Lavoisier/3;3 avenue Lavoisier;92500;4.0;;Voirie;48.88255, 2.170481
+Rueil-Malmaison;;92063-22;Rueil-Malmaison/8 mai 1945/2;2 bis Place du 8 mai 1945;92500;6.0;;Voirie;48.871443, 2.202809
+Rueil-Malmaison;;92063-24;Rueil-Malmaison/18 juin 1940/63;63 avenue du 18 juin 1940;92500;5.0;;Voirie;48.868166, 2.19331
+Sceaux;;92071-01;Sceaux/Paul Langevin/3;3 avenue Paul Langevin;92330;5.0;;Voirie;48.783893, 2.292204
+Sceaux;1.0;92071-02;Sceaux/Gare/3;3 Avenue de la Gare;92330;6.0;;Voirie;48.781226, 2.300876
+Sceaux;;92071-05;Sceaux/Houdan/118;118 rue Houdan;92330;6.0;;Voirie;48.779046, 2.289209
+Sèvres;;92072-04;Sèvres/Grande Rue/123;123 Grande Rue;92310;6.0;;Voirie;48.827059, 2.201314
+Sèvres;;92072-14;Sèvres/Cristallerie/2;2 Avenue de la Cristallerie;92310;6.0;;Voirie;48.826735, 2.222721
+Suresnes;;92073-05;Suresnes/Jean Jaurès/21;21 avenue Jean Jaurès;92150;6.0;;Voirie;48.863524, 2.209012
+Vanves;;92075-01;Vanves/René Sahors/9;9 rue René Sahors;92170;6.0;;Voirie;48.821898, 2.290473
+Aulnay-sous-bois;;93005-05;Aulnay-sous-bois/Arthur Chevalier/7;7 rue Arthur Chevalier;93600;6.0;;Voirie;48.930465, 2.506231
+Bagnolet;;93006-06;Bagnolet/Stalingrad/49;49 avenue de Stalingrad;93170;6.0;;Voirie;48.873005, 2.429243
+Drancy;;93029-03;Drancy/Sadi Carnot/116;116 rue Sadi Carnot;93700;5.0;1;Voirie;48.925825, 2.440391
+Épinay-sur-Seine;;93031-05;Épinay-sur-Seine/Fitzelin/64;64 Rue de Fitzelin;93800;4.0;1;Voirie;48.959423, 2.303831
+Montreuil;;93048-13;Montreuil/Galilée/29;29 rue Galilée;93100;6.0;;Voirie;48.857782, 2.434975
+Neuilly Plaisance;;93049-04;Neuilly Plaisance/Edgard Quinet/46;46 rue Edgard Quinet;93360;6.0;;Voirie;48.85583, 2.511099
+Noisy-le-Sec;;93053-01;Noisy-le-Sec/Marc Sangnier/8;8 rue Marc Sangnier;93130;6.0;;Voirie;48.896031, 2.458662
+Noisy-le-Sec;;93053-04;Noisy-le-Sec/Victor Hugo/1;1 avenue Victor Hugo;93130;6.0;;Voirie;48.892163, 2.467671
+Pantin;;93055-17;Pantin/Cartier Bresson/84;84 Rue Cartier Bresson;93500;6.0;;Voirie;48.9018, 2.401219
+Saint-Ouen;;93070-04;Saint-Ouen/Dieumegard/1;1 Rue Dieumegard;93400;6.0;;Voirie;48.908231, 2.339996
+Saint-Ouen;;93070-06;Saint-Ouen/Moutier/1;1 Rue du Moutier;93400;4.0;;Voirie;48.918061, 2.331916
+Saint-Ouen;;93070-11;Saint-Ouen/Michelet/42;42 Avenue Michelet;93400;6.0;;Voirie;48.909792, 2.344129
+Saint-Ouen;;93070-12;Saint-Ouen/Capitaine Glarner/44;44 avenue du Capitaine Glarner;93400;6.0;;Voirie;48.903764, 2.329146
+Alfortville;;94002-05;Alfortville/Etienne Dolet/174;174 rue Etienne Dolet;94140;6.0;;Voirie;48.790987, 2.425553
+Arcueil;;94003-01;Arcueil/François Vincent Raspail/32;32 avenue François Vincent Raspail;94110;6.0;;Voirie;48.805227, 2.337324
+Arcueil;;94003-03;Arcueil/Emile Raspail/1;1 rue Emile Raspail;94110;6.0;;Voirie;48.799795, 2.33146
+Cachan;;94016-05;Cachan/Carnot/36;36 Avenue Carnot;94230;7.0;;Voirie;48.798371, 2.327184
+Charenton-le-Pont;;94018-01;Charenton-le-Pont/Paris/147;147 rue de Paris;94220;6.0;;Voirie;48.826809, 2.405201
+Paris;;75116-46;Paris/Adolphe Yvon/6;6 Rue Adolphe Yvon;75016;4.0;2;Voirie;48.864272, 2.271028
+Paris;;75116-48;Paris/Versailles/53;53 avenue de Versailles;75016;4.0;1;Voirie;48.847886, 2.274456
+Paris;;75117-03;Paris/Navier/1;1 Rue Navier;75017;4.0;2;Voirie;48.895513, 2.328156
+Paris;;75117-04;Paris/Mac Mahon/5;5 Avenue Mac Mahon;75017;4.0;2;Voirie;48.875539, 2.294478
+Paris;;75117-10;Paris/Legendre/126;126 Rue Legendre;75017;4.0;1;Voirie;48.888684, 2.32214
+Paris;;75117-14;Paris/Dulong/67;67 Rue Dulong;75017;4.0;1;Voirie;48.886187, 2.315044
+Paris;;75117-19;Paris/Galvani/25;25 rue de Galvani;75017;4.0;1;Voirie;48.884002, 2.289769
+Paris;;75117-30;Paris/Grande Armée/40;40 Avenue de la Grande Armée;75017;4.0;1;Voirie;48.876145, 2.288723
+Paris;;75117-34;Paris/Raymond Pitet/7;7 rue Raymond Pitet;75017;4.0;1;Voirie;48.890083, 2.296352
+Paris;;75117-35;Paris/Pereire/115;115 Boulevard Pereire;75017;4.0;2;Voirie;48.885644, 2.299181
+Paris;;75117-36;Paris/Darcet/28;28 rue Darcet;75017;4.0;1;Voirie;48.884526, 2.324624
+Paris;;75117-38;Paris/Georges Berger/2;2 Rue Georges Berger;75017;4.0;2;Voirie;48.880817, 2.310044
+Paris;;75115-60;Paris/Suffren/112;112 Avenue de Suffren;75015;4.0;2;Voirie;48.848964, 2.304099
+Paris;;75116-08;Paris/Mozart/68;68 avenue Mozart;75016;4.0;2;Voirie;48.853389, 2.26851
+Paris;;75116-09;Paris/Raymond Poincaré/51;51 avenue Raymond Poincaré;75016;4.0;2;Voirie;48.86692, 2.285865
+Paris;;75116-10;Paris/Kléber/89;89 avenue Kléber;75016;4.0;2;Voirie;48.864136, 2.2883
+Paris;;75116-18;Paris/Mozart/2;2 Avenue Mozart;75016;4.0;;Voirie;48.858034, 2.274135
+Paris;;75116-20;Paris/Victor Hugo/180;180 Avenue Victor Hugo;75016;4.0;2;Voirie;48.865954, 2.27625
+Paris;;75116-23;Paris/Jean de la Fontaine/77;77 Rue Jean de la Fontaine;75016;4.0;;Voirie;48.848745, 2.266096
+Paris;;75116-24;Paris/Eaux/2;2 rue des Eaux;75016;4.0;2;Voirie;48.856729, 2.286021
+Paris;;75116-30;Paris/Exelmans/32;32 boulevard Exelmans;75016;4.0;2;Voirie;48.841328, 2.264477
+Paris;;75116-35;Paris/Iéna/63;63 avenue d'Iéna;75016;4.0;1;Voirie;48.871326, 2.29518
+Paris;;75116-39;Paris/Pompe/137;137 rue de la Pompe;75016;4.0;2;Voirie;48.864914, 2.278593
+Paris;;75117-08;Paris/Marguerite Long/11;11 rue Marguerite Long;75017;4.0;2;Voirie;48.891362, 2.304116
+Paris;;75117-09;Paris/Jouffroy d'Abbans/14;14 rue Jouffroy d'Abbans;75017;4.0;2;Voirie;48.886909, 2.31219
+Paris;;75117-20;Paris/Jonquière/66;66 rue de la Jonquière;75017;4.0;2;Voirie;48.894123, 2.321132
+Paris;;75117-23;Paris/Brémontier/19;19 rue Brémontier;75017;4.0;2;Voirie;48.885045, 2.30345
+Paris;;75117-27;Paris/Niel/28;28 avenue de Niel;75017;4.0;1;Voirie;48.880964, 2.295617
+Paris;;75117-32;Paris/Clichy/181;181 quater Avenue de Clichy;75017;4.0;;Voirie;48.893515, 2.314689
